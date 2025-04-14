@@ -4,13 +4,17 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
-import uuid
+import pandas as pd
 import logging
 import asyncio
-import pandas as pd
+import uuid
 
 
 def setup_driver():
+    '''
+    This function initializes the Selenium WebDriver with headless Chrome options for running without GUI.
+    '''
+    
     options = Options()
     options.add_argument('--headless') # Utiliser chrome_driver sans interface graphique
     options.add_argument('--no-sandbox') # Pour éviter les problèmes de sécurité dans certains environnements
@@ -20,7 +24,10 @@ def setup_driver():
 
 #Chargement des articles  
 def load_more_articles(driver):
-    '''Cette fonction permet de charger 50*15 articles'''
+    '''
+    This function clicks the "load more" button up to 50 times to fetch more articles from the page.
+    '''
+
     for _ in range(50):
         try:
             load_more = driver.find_element(By.ID, 'justin-load-more-button')
@@ -31,7 +38,11 @@ def load_more_articles(driver):
 
 #Extraire les articles sur le site
 async def extract_articles(article):
-    '''Cette fonction permet d'extraire le titre le lien et la date d'un article posté'''
+    '''
+    This async function extracts the title, date, and link from a single article element. 
+    It skips video links and returns a dictionary.
+    '''
+
     try:
         link = article.find_element(By.CLASS_NAME, 'c-timeline-items__article__link').get_attribute('href')
         if '/watch-' not in link and '/video/' not in link:
@@ -50,7 +61,11 @@ async def extract_articles(article):
 
 #Recuperation du contenu des articles
 async def get_article_content(driver, article):
-    '''Cette fonction permet de récuper le body d'un article à partir de son lien et retourne un dictionnaire avec les informations de l'article'''
+    '''
+    This async function visits the article link, extracts all text paragraphs from the article body,
+    and returns a dictionary with article metadata and content.
+    '''
+
     try:
         logging.info(f"Extraction de {article['link']}")
         driver.set_page_load_timeout(130)
@@ -77,6 +92,10 @@ async def get_article_content(driver, article):
 
 #Fonction principale
 async def scraper_news():
+    '''
+    This is the main asynchronous function. It sets up the driver, loads more articles,
+    extracts summaries and full content, and writes results to a CSV file.
+    '''
     
     logging.basicConfig(
         level=logging.INFO,
@@ -110,6 +129,7 @@ async def scraper_news():
         valid_news = [article for article in scraped_news if article is not None]
         df = pd.DataFrame(valid_news)
         df.dropna(axis=0, inplace=True)
+        
         # Supprimer les doublons basés sur l'URL
         df.drop_duplicates(subset=['Url'], inplace=True)
         print(df)
