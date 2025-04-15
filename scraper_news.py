@@ -48,15 +48,15 @@ async def extract_articles(article):
         if '/watch-' not in link and '/video/' not in link:
             date = article.find_element(By.CLASS_NAME, 'c-item-date').text
             time = article.find_element(By.CLASS_NAME, 'c-item-time').text + ' GMT+1'
-            title = article.find_element(By.TAG_NAME, 'h3').text
+            title = article.find_element(By.TAG_NAME, 'h2').text
             
             return {
                 'title': title,
                 'link': link,
                 'date_time': f"{date} {time}"
             }
-    except NoSuchElementException:
-        print("error")
+    except NoSuchElementException as e:
+        print("error", e)
 
 
 #Recuperation du contenu des articles
@@ -131,6 +131,7 @@ async def scraper_news():
         df.dropna(axis=0, inplace=True)
         
         # Supprimer les doublons basés sur l'URL
+        print(f'\nnombre de lien unique{df['Url'].nunique()}\n')
         df.drop_duplicates(subset=['Url'], inplace=True)
         print(df)
         df.to_csv('data/scraped_news.csv', index=False)

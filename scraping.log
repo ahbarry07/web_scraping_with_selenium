@@ -1,0 +1,888 @@
+2025-04-15 08:51:43,103 - INFO - Configuration du driver
+2025-04-15 08:51:43,103 - INFO - ====== WebDriver manager ======
+2025-04-15 08:51:43,202 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-15 08:51:43,696 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-15 08:51:43,903 - INFO - Driver [/home/ahmad-guler/.wdm/drivers/chromedriver/linux64/135.0.7049.84/chromedriver-linux64/chromedriver] found in cache
+2025-04-15 08:51:44,174 - INFO - Requete vers la page a scraper
+2025-04-15 08:51:48,146 - INFO - Chargement des articles
+2025-04-15 08:51:52,875 - INFO - Extraction des articles
+2025-04-15 08:52:21,263 - INFO - Recuperation du contenu des article
+2025-04-15 08:52:21,265 - INFO - Extraction de https://www.euronews.com/2025/04/15/trump-administration-to-freeze-22bn-in-grants-to-harvard-university
+2025-04-15 08:52:23,461 - INFO - extraction reussi
+2025-04-15 08:52:23,461 - INFO - Extraction de https://www.euronews.com/health/2025/04/15/pfizer-stops-working-on-potential-pill-to-treat-obesity-after-study-participant-has-liver-
+2025-04-15 08:52:23,962 - INFO - extraction reussi
+2025-04-15 08:52:23,962 - INFO - Extraction de https://www.euronews.com/2025/04/15/hamas-delegation-heads-to-qatar-for-indirect-ceasefire-talks-with-israel
+2025-04-15 08:52:24,411 - INFO - extraction reussi
+2025-04-15 08:52:24,411 - INFO - Extraction de https://www.euronews.com/next/2025/04/15/most-europeans-know-about-quantum-without-knowing-specifically-what-it-is-new-survey-finds
+2025-04-15 08:52:24,927 - INFO - extraction reussi
+2025-04-15 08:52:24,927 - INFO - Extraction de https://www.euronews.com/green/2025/04/15/millions-of-people-are-tuning-in-to-watch-a-24-hour-livestream-of-moose-migrating-in-swede
+2025-04-15 08:52:25,822 - INFO - extraction reussi
+2025-04-15 08:52:25,822 - INFO - Extraction de https://www.euronews.com/culture/2025/04/15/jury-selection-to-begin-in-harvey-weinsteins-retrial
+2025-04-15 08:52:26,490 - INFO - extraction reussi
+2025-04-15 08:52:26,490 - INFO - Extraction de https://www.euronews.com/health/2025/04/15/using-smartphones-may-protect-older-adults-against-cognitive-problems-like-dementia-as-the
+2025-04-15 08:52:27,089 - INFO - extraction reussi
+2025-04-15 08:52:27,090 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/15/frances-united-front-against-mercosur-deal-starts-to-show-cracks
+2025-04-15 08:52:29,027 - INFO - extraction reussi
+2025-04-15 08:52:29,027 - INFO - Extraction de https://www.euronews.com/health/2025/04/15/eu-agency-flags-risks-to-nuclear-medicines-from-dependency-on-russia-and-us
+2025-04-15 08:52:29,662 - INFO - extraction reussi
+2025-04-15 08:52:29,662 - INFO - Extraction de https://www.euronews.com/business/2025/04/15/european-markets-set-to-open-higher-as-euro-holds-firm-against-dollar
+2025-04-15 08:52:30,209 - INFO - extraction reussi
+2025-04-15 08:52:30,209 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/15/is-friedrich-merz-more-popular-in-brussels-than-in-berlin-radio-schuman
+2025-04-15 08:52:30,717 - INFO - extraction reussi
+2025-04-15 08:52:30,717 - INFO - Extraction de https://www.euronews.com/business/2025/04/15/trump-considers-pausing-auto-tariffs-as-world-economy-endures-whiplash
+2025-04-15 08:52:31,401 - INFO - extraction reussi
+2025-04-15 08:52:31,401 - INFO - Extraction de https://www.euronews.com/green/2025/04/15/europe-is-already-suffering-the-serious-impacts-of-climate-change-new-report-reveals
+2025-04-15 08:52:32,146 - INFO - extraction reussi
+2025-04-15 08:52:32,146 - INFO - Extraction de https://www.euronews.com/2025/04/15/at-least-seven-killed-in-suspected-us-airstrikes-on-yemen-houthi-rebels-say
+2025-04-15 08:52:32,662 - INFO - extraction reussi
+2025-04-15 08:52:32,662 - INFO - Extraction de https://www.euronews.com/2025/04/15/president-trump-claims-to-have-solved-us-inflation-amid-market-turmoil
+2025-04-15 08:52:33,353 - INFO - extraction reussi
+2025-04-15 08:52:33,353 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/15/ukrainians-mourn-victims-of-russian-palm-sunday-attack-on-sumy
+2025-04-15 08:52:34,111 - INFO - extraction reussi
+2025-04-15 08:52:34,112 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/eu-unveils-16bln-in-aid-for-palestinian-authority-for-west-bank-gaza-projects
+2025-04-15 08:52:34,731 - INFO - extraction reussi
+2025-04-15 08:52:34,731 - INFO - Extraction de https://www.euronews.com/2025/04/14/hungarys-parliament-passes-constitutional-amendment-banning-public-lgbtq-events
+2025-04-15 08:52:35,387 - INFO - extraction reussi
+2025-04-15 08:52:35,387 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/pope-francis-approves-first-step-towards-the-beatification-of-catalan-architect-antoni-gau
+2025-04-15 08:52:35,932 - INFO - extraction reussi
+2025-04-15 08:52:35,932 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/the-world-of-literature-is-mourning-how-mario-vargas-llosa-brought-spanish-to-splendour
+2025-04-15 08:52:36,622 - INFO - extraction reussi
+2025-04-15 08:52:36,622 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/two-bodies-39-survivors-found-on-greek-island-after-suspected-migrant-boat-sinking
+2025-04-15 08:52:37,237 - INFO - extraction reussi
+2025-04-15 08:52:37,238 - INFO - Extraction de https://www.euronews.com/2025/04/14/next-round-of-iran-us-nuclear-talks-to-be-held-in-rome-diplomatic-sources-say
+2025-04-15 08:52:37,962 - INFO - extraction reussi
+2025-04-15 08:52:37,962 - INFO - Extraction de https://www.euronews.com/health/2025/04/14/castor-oil-and-coffee-with-lemon-the-truth-behind-tiktoks-latest-quick-fix-weight-loss-tre
+2025-04-15 08:52:40,482 - INFO - extraction reussi
+2025-04-15 08:52:40,482 - INFO - Extraction de https://www.euronews.com/2025/04/15/president-trump-claims-to-have-solved-us-inflation-amid-market-turmoil
+2025-04-15 08:52:41,006 - INFO - extraction reussi
+2025-04-15 08:52:41,006 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/15/ukrainians-mourn-victims-of-russian-palm-sunday-attack-on-sumy
+2025-04-15 08:52:41,686 - INFO - extraction reussi
+2025-04-15 08:52:41,686 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/eu-unveils-16bln-in-aid-for-palestinian-authority-for-west-bank-gaza-projects
+2025-04-15 08:52:42,242 - INFO - extraction reussi
+2025-04-15 08:52:42,242 - INFO - Extraction de https://www.euronews.com/2025/04/14/hungarys-parliament-passes-constitutional-amendment-banning-public-lgbtq-events
+2025-04-15 08:52:43,079 - INFO - extraction reussi
+2025-04-15 08:52:43,079 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/pope-francis-approves-first-step-towards-the-beatification-of-catalan-architect-antoni-gau
+2025-04-15 08:52:43,535 - INFO - extraction reussi
+2025-04-15 08:52:43,535 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/the-world-of-literature-is-mourning-how-mario-vargas-llosa-brought-spanish-to-splendour
+2025-04-15 08:52:44,047 - INFO - extraction reussi
+2025-04-15 08:52:44,047 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/two-bodies-39-survivors-found-on-greek-island-after-suspected-migrant-boat-sinking
+2025-04-15 08:52:44,678 - INFO - extraction reussi
+2025-04-15 08:52:44,678 - INFO - Extraction de https://www.euronews.com/2025/04/14/next-round-of-iran-us-nuclear-talks-to-be-held-in-rome-diplomatic-sources-say
+2025-04-15 08:52:45,193 - INFO - extraction reussi
+2025-04-15 08:52:45,193 - INFO - Extraction de https://www.euronews.com/health/2025/04/14/castor-oil-and-coffee-with-lemon-the-truth-behind-tiktoks-latest-quick-fix-weight-loss-tre
+2025-04-15 08:52:46,525 - INFO - extraction reussi
+2025-04-15 08:52:46,525 - INFO - Extraction de https://www.euronews.com/2025/04/15/president-trump-claims-to-have-solved-us-inflation-amid-market-turmoil
+2025-04-15 08:52:47,244 - INFO - extraction reussi
+2025-04-15 08:52:47,244 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/15/ukrainians-mourn-victims-of-russian-palm-sunday-attack-on-sumy
+2025-04-15 08:52:48,561 - INFO - extraction reussi
+2025-04-15 08:52:48,561 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/eu-unveils-16bln-in-aid-for-palestinian-authority-for-west-bank-gaza-projects
+2025-04-15 08:52:49,224 - INFO - extraction reussi
+2025-04-15 08:52:49,225 - INFO - Extraction de https://www.euronews.com/2025/04/14/hungarys-parliament-passes-constitutional-amendment-banning-public-lgbtq-events
+2025-04-15 08:52:49,831 - INFO - extraction reussi
+2025-04-15 08:52:49,831 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/pope-francis-approves-first-step-towards-the-beatification-of-catalan-architect-antoni-gau
+2025-04-15 08:52:50,293 - INFO - extraction reussi
+2025-04-15 08:52:50,294 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/the-world-of-literature-is-mourning-how-mario-vargas-llosa-brought-spanish-to-splendour
+2025-04-15 08:52:50,794 - INFO - extraction reussi
+2025-04-15 08:52:50,795 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/two-bodies-39-survivors-found-on-greek-island-after-suspected-migrant-boat-sinking
+2025-04-15 08:52:51,293 - INFO - extraction reussi
+2025-04-15 08:52:51,293 - INFO - Extraction de https://www.euronews.com/2025/04/14/next-round-of-iran-us-nuclear-talks-to-be-held-in-rome-diplomatic-sources-say
+2025-04-15 08:52:51,892 - INFO - extraction reussi
+2025-04-15 08:52:51,892 - INFO - Extraction de https://www.euronews.com/health/2025/04/14/castor-oil-and-coffee-with-lemon-the-truth-behind-tiktoks-latest-quick-fix-weight-loss-tre
+2025-04-15 08:52:53,294 - INFO - extraction reussi
+2025-04-15 08:52:53,294 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/eu-has-secured-two-thirds-of-5-billion-ammunition-goal-for-ukraine-kallas-says
+2025-04-15 08:52:53,916 - INFO - extraction reussi
+2025-04-15 08:52:53,916 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/former-uk-conservative-mp-charged-with-cheating-in-election-betting-scandal
+2025-04-15 08:52:54,583 - INFO - extraction reussi
+2025-04-15 08:52:54,583 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/cyprus-sentences-syrian-national-for-bringing-migrants-to-country-on-overloaded-boat
+2025-04-15 08:52:55,214 - INFO - extraction reussi
+2025-04-15 08:52:55,214 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/at-least-nine-people-injured-in-odesa-in-overnight-russian-attacks
+2025-04-15 08:52:56,215 - INFO - extraction reussi
+2025-04-15 08:52:56,215 - INFO - Extraction de https://www.euronews.com/2025/04/14/turkish-court-rejects-appeal-seeking-release-of-arrested-mayor-ekrem-imamoglu
+2025-04-15 08:52:56,796 - INFO - extraction reussi
+2025-04-15 08:52:56,796 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/azerbaijans-energy-ambitions-baku-summit-highlights-southern-gas-corridor-and-green-transi
+2025-04-15 08:52:57,434 - INFO - extraction reussi
+2025-04-15 08:52:57,434 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/eu-has-secured-two-thirds-of-5-billion-ammunition-goal-for-ukraine-kallas-says
+2025-04-15 08:52:57,952 - INFO - extraction reussi
+2025-04-15 08:52:57,953 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/former-uk-conservative-mp-charged-with-cheating-in-election-betting-scandal
+2025-04-15 08:52:58,461 - INFO - extraction reussi
+2025-04-15 08:52:58,462 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/cyprus-sentences-syrian-national-for-bringing-migrants-to-country-on-overloaded-boat
+2025-04-15 08:52:58,966 - INFO - extraction reussi
+2025-04-15 08:52:58,966 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/at-least-nine-people-injured-in-odesa-in-overnight-russian-attacks
+2025-04-15 08:52:59,614 - INFO - extraction reussi
+2025-04-15 08:52:59,614 - INFO - Extraction de https://www.euronews.com/2025/04/14/turkish-court-rejects-appeal-seeking-release-of-arrested-mayor-ekrem-imamoglu
+2025-04-15 08:53:00,069 - INFO - extraction reussi
+2025-04-15 08:53:00,069 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/azerbaijans-energy-ambitions-baku-summit-highlights-southern-gas-corridor-and-green-transi
+2025-04-15 08:53:00,685 - INFO - extraction reussi
+2025-04-15 08:53:00,685 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/harry-potter-tv-show-announces-first-cast-members
+2025-04-15 08:53:01,196 - INFO - extraction reussi
+2025-04-15 08:53:01,196 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/us-markets-tech-stocks-rise-higher-and-investors-watch-earnings
+2025-04-15 08:53:02,020 - INFO - extraction reussi
+2025-04-15 08:53:02,020 - INFO - Extraction de https://www.euronews.com/next/2025/04/14/katy-perry-among-the-first-all-female-crew-launched-into-space-since-1963-on-blue-origin-r
+2025-04-15 08:53:03,050 - INFO - extraction reussi
+2025-04-15 08:53:03,050 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/which-european-countries-are-draining-their-freshwater-resources
+2025-04-15 08:53:04,368 - INFO - extraction reussi
+2025-04-15 08:53:04,369 - INFO - Extraction de https://www.euronews.com/green/2025/04/14/fossil-fuels-in-another-form-plastic-recycling-rate-stagnates-at-under-10-report-finds
+2025-04-15 08:53:05,129 - INFO - extraction reussi
+2025-04-15 08:53:05,130 - INFO - Extraction de https://www.euronews.com/travel/2025/04/14/give-back-while-you-travel-fijis-loloma-hour-invites-visitors-to-help-protect-paradise
+2025-04-15 08:53:05,976 - INFO - extraction reussi
+2025-04-15 08:53:05,976 - INFO - Extraction de https://www.euronews.com/green/2025/04/14/pumped-up-pollen-how-climate-change-could-be-making-your-seasonal-allergies-worse
+2025-04-15 08:53:06,566 - INFO - extraction reussi
+2025-04-15 08:53:06,566 - INFO - Extraction de https://www.euronews.com/2025/04/14/german-parliament-set-to-elect-merz-as-chancellor-on-6-may
+2025-04-15 08:53:07,108 - INFO - extraction reussi
+2025-04-15 08:53:07,109 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/harry-potter-tv-show-announces-first-cast-members
+2025-04-15 08:53:07,503 - INFO - extraction reussi
+2025-04-15 08:53:07,504 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/us-markets-tech-stocks-rise-higher-and-investors-watch-earnings
+2025-04-15 08:53:07,903 - INFO - extraction reussi
+2025-04-15 08:53:07,903 - INFO - Extraction de https://www.euronews.com/next/2025/04/14/katy-perry-among-the-first-all-female-crew-launched-into-space-since-1963-on-blue-origin-r
+2025-04-15 08:53:08,300 - INFO - extraction reussi
+2025-04-15 08:53:08,300 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/which-european-countries-are-draining-their-freshwater-resources
+2025-04-15 08:53:08,730 - INFO - extraction reussi
+2025-04-15 08:53:08,731 - INFO - Extraction de https://www.euronews.com/green/2025/04/14/fossil-fuels-in-another-form-plastic-recycling-rate-stagnates-at-under-10-report-finds
+2025-04-15 08:53:09,471 - INFO - extraction reussi
+2025-04-15 08:53:09,471 - INFO - Extraction de https://www.euronews.com/travel/2025/04/14/give-back-while-you-travel-fijis-loloma-hour-invites-visitors-to-help-protect-paradise
+2025-04-15 08:53:09,850 - INFO - extraction reussi
+2025-04-15 08:53:09,850 - INFO - Extraction de https://www.euronews.com/green/2025/04/14/pumped-up-pollen-how-climate-change-could-be-making-your-seasonal-allergies-worse
+2025-04-15 08:53:10,459 - INFO - extraction reussi
+2025-04-15 08:53:10,459 - INFO - Extraction de https://www.euronews.com/2025/04/14/german-parliament-set-to-elect-merz-as-chancellor-on-6-may
+2025-04-15 08:53:10,877 - INFO - extraction reussi
+2025-04-15 08:53:10,877 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/harry-potter-tv-show-announces-first-cast-members
+2025-04-15 08:53:11,577 - INFO - extraction reussi
+2025-04-15 08:53:11,577 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/us-markets-tech-stocks-rise-higher-and-investors-watch-earnings
+2025-04-15 08:53:12,107 - INFO - extraction reussi
+2025-04-15 08:53:12,107 - INFO - Extraction de https://www.euronews.com/next/2025/04/14/katy-perry-among-the-first-all-female-crew-launched-into-space-since-1963-on-blue-origin-r
+2025-04-15 08:53:12,652 - INFO - extraction reussi
+2025-04-15 08:53:12,652 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/which-european-countries-are-draining-their-freshwater-resources
+2025-04-15 08:53:13,122 - INFO - extraction reussi
+2025-04-15 08:53:13,123 - INFO - Extraction de https://www.euronews.com/green/2025/04/14/fossil-fuels-in-another-form-plastic-recycling-rate-stagnates-at-under-10-report-finds
+2025-04-15 08:53:13,787 - INFO - extraction reussi
+2025-04-15 08:53:13,788 - INFO - Extraction de https://www.euronews.com/travel/2025/04/14/give-back-while-you-travel-fijis-loloma-hour-invites-visitors-to-help-protect-paradise
+2025-04-15 08:53:14,337 - INFO - extraction reussi
+2025-04-15 08:53:14,337 - INFO - Extraction de https://www.euronews.com/green/2025/04/14/pumped-up-pollen-how-climate-change-could-be-making-your-seasonal-allergies-worse
+2025-04-15 08:53:14,897 - INFO - extraction reussi
+2025-04-15 08:53:14,897 - INFO - Extraction de https://www.euronews.com/2025/04/14/german-parliament-set-to-elect-merz-as-chancellor-on-6-may
+2025-04-15 08:53:15,512 - INFO - extraction reussi
+2025-04-15 08:53:15,512 - INFO - Extraction de https://www.euronews.com/travel/2025/04/14/facial-recognition-and-phone-based-boarding-passes-why-the-future-of-flying-could-be-paper
+2025-04-15 08:53:16,186 - INFO - extraction reussi
+2025-04-15 08:53:16,186 - INFO - Extraction de https://www.euronews.com/next/2025/04/14/eu-commission-ramping-up-digital-platform-enforcement
+2025-04-15 08:53:17,034 - INFO - extraction reussi
+2025-04-15 08:53:17,034 - INFO - Extraction de https://www.euronews.com/next/2025/04/14/xs-ai-platform-under-scrutiny-for-data-use
+2025-04-15 08:53:17,613 - INFO - extraction reussi
+2025-04-15 08:53:17,614 - INFO - Extraction de https://www.euronews.com/travel/2025/04/14/istanbuls-creative-renaissance-contemporary-art-and-sustainability-in-the-cultural-capital
+2025-04-15 08:53:18,056 - INFO - extraction reussi
+2025-04-15 08:53:18,056 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/touch-play-discover-science-made-fun-in-luxembourg
+2025-04-15 08:53:18,716 - INFO - extraction reussi
+2025-04-15 08:53:18,716 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/shaping-responsible-citizens-through-science-and-exploration
+2025-04-15 08:53:19,897 - INFO - extraction reussi
+2025-04-15 08:53:19,898 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/china-warns-uk-government-to-treat-owners-of-british-steel-fairly
+2025-04-15 08:53:20,486 - INFO - extraction reussi
+2025-04-15 08:53:20,486 - INFO - Extraction de https://www.euronews.com/travel/2025/04/14/facial-recognition-and-phone-based-boarding-passes-why-the-future-of-flying-could-be-paper
+2025-04-15 08:53:21,046 - INFO - extraction reussi
+2025-04-15 08:53:21,046 - INFO - Extraction de https://www.euronews.com/next/2025/04/14/eu-commission-ramping-up-digital-platform-enforcement
+2025-04-15 08:53:21,849 - INFO - extraction reussi
+2025-04-15 08:53:21,850 - INFO - Extraction de https://www.euronews.com/next/2025/04/14/xs-ai-platform-under-scrutiny-for-data-use
+2025-04-15 08:53:22,373 - INFO - extraction reussi
+2025-04-15 08:53:22,373 - INFO - Extraction de https://www.euronews.com/travel/2025/04/14/istanbuls-creative-renaissance-contemporary-art-and-sustainability-in-the-cultural-capital
+2025-04-15 08:53:22,786 - INFO - extraction reussi
+2025-04-15 08:53:22,786 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/touch-play-discover-science-made-fun-in-luxembourg
+2025-04-15 08:53:23,312 - INFO - extraction reussi
+2025-04-15 08:53:23,312 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/shaping-responsible-citizens-through-science-and-exploration
+2025-04-15 08:53:23,832 - INFO - extraction reussi
+2025-04-15 08:53:23,832 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/china-warns-uk-government-to-treat-owners-of-british-steel-fairly
+2025-04-15 08:53:24,662 - INFO - extraction reussi
+2025-04-15 08:53:24,662 - INFO - Extraction de https://www.euronews.com/travel/2025/04/14/facial-recognition-and-phone-based-boarding-passes-why-the-future-of-flying-could-be-paper
+2025-04-15 08:53:25,503 - INFO - extraction reussi
+2025-04-15 08:53:25,503 - INFO - Extraction de https://www.euronews.com/next/2025/04/14/eu-commission-ramping-up-digital-platform-enforcement
+2025-04-15 08:53:26,168 - INFO - extraction reussi
+2025-04-15 08:53:26,169 - INFO - Extraction de https://www.euronews.com/next/2025/04/14/xs-ai-platform-under-scrutiny-for-data-use
+2025-04-15 08:53:26,768 - INFO - extraction reussi
+2025-04-15 08:53:26,769 - INFO - Extraction de https://www.euronews.com/travel/2025/04/14/istanbuls-creative-renaissance-contemporary-art-and-sustainability-in-the-cultural-capital
+2025-04-15 08:53:27,303 - INFO - extraction reussi
+2025-04-15 08:53:27,303 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/touch-play-discover-science-made-fun-in-luxembourg
+2025-04-15 08:53:27,868 - INFO - extraction reussi
+2025-04-15 08:53:27,868 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/shaping-responsible-citizens-through-science-and-exploration
+2025-04-15 08:53:28,348 - INFO - extraction reussi
+2025-04-15 08:53:28,348 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/china-warns-uk-government-to-treat-owners-of-british-steel-fairly
+2025-04-15 08:53:28,826 - INFO - extraction reussi
+2025-04-15 08:53:28,826 - INFO - Extraction de https://www.euronews.com/2025/04/14/scores-of-civilians-killed-as-sudans-rsf-attacks-displacement-camps-in-darfur
+2025-04-15 08:53:29,463 - INFO - extraction reussi
+2025-04-15 08:53:29,463 - INFO - Extraction de https://www.euronews.com/travel/2025/04/14/is-it-safe-to-travel-to-lanzarote-latest-advice-after-storm-olivier-sweeps-through-canary-
+2025-04-15 08:53:30,133 - INFO - extraction reussi
+2025-04-15 08:53:30,133 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/penguin-protest-march-against-trumps-tariffs-coming-this-week
+2025-04-15 08:53:31,760 - INFO - extraction reussi
+2025-04-15 08:53:31,760 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/eu-sanctions-iranian-prison-and-justice-officials-over-unlawful-arrests-of-its-citizens
+2025-04-15 08:53:32,987 - INFO - extraction reussi
+2025-04-15 08:53:32,987 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/germany-is-open-to-sending-taurus-missiles-to-ukraine-says-merz
+2025-04-15 08:53:33,572 - INFO - extraction reussi
+2025-04-15 08:53:33,572 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/greece-strengthens-military-with-16-anti-ship-missiles-from-france
+2025-04-15 08:53:34,280 - INFO - extraction reussi
+2025-04-15 08:53:34,280 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/museum-buys-rare-emily-bronte-painting-at-auction
+2025-04-15 08:53:35,570 - INFO - extraction reussi
+2025-04-15 08:53:35,570 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/sony-hikes-playstation-5-prices-by-25-in-uk-europe-and-australia
+2025-04-15 08:53:36,130 - INFO - extraction reussi
+2025-04-15 08:53:36,130 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/the-untold-war-un-sounds-alarm-on-violence-against-ukrainian-women
+2025-04-15 08:53:36,819 - INFO - extraction reussi
+2025-04-15 08:53:36,819 - INFO - Extraction de https://www.euronews.com/2025/04/14/algeria-orders-12-french-embassy-staff-to-leave-the-country-within-40-hours
+2025-04-15 08:53:37,432 - INFO - extraction reussi
+2025-04-15 08:53:37,432 - INFO - Extraction de https://www.euronews.com/2025/04/14/scores-of-civilians-killed-as-sudans-rsf-attacks-displacement-camps-in-darfur
+2025-04-15 08:53:38,192 - INFO - extraction reussi
+2025-04-15 08:53:38,192 - INFO - Extraction de https://www.euronews.com/travel/2025/04/14/is-it-safe-to-travel-to-lanzarote-latest-advice-after-storm-olivier-sweeps-through-canary-
+2025-04-15 08:53:38,774 - INFO - extraction reussi
+2025-04-15 08:53:38,774 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/penguin-protest-march-against-trumps-tariffs-coming-this-week
+2025-04-15 08:53:39,736 - INFO - extraction reussi
+2025-04-15 08:53:39,736 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/eu-sanctions-iranian-prison-and-justice-officials-over-unlawful-arrests-of-its-citizens
+2025-04-15 08:53:40,285 - INFO - extraction reussi
+2025-04-15 08:53:40,285 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/germany-is-open-to-sending-taurus-missiles-to-ukraine-says-merz
+2025-04-15 08:53:40,916 - INFO - extraction reussi
+2025-04-15 08:53:40,917 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/greece-strengthens-military-with-16-anti-ship-missiles-from-france
+2025-04-15 08:53:41,684 - INFO - extraction reussi
+2025-04-15 08:53:41,684 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/museum-buys-rare-emily-bronte-painting-at-auction
+2025-04-15 08:53:42,343 - INFO - extraction reussi
+2025-04-15 08:53:42,343 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/sony-hikes-playstation-5-prices-by-25-in-uk-europe-and-australia
+2025-04-15 08:53:42,788 - INFO - extraction reussi
+2025-04-15 08:53:42,788 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/the-untold-war-un-sounds-alarm-on-violence-against-ukrainian-women
+2025-04-15 08:53:43,463 - INFO - extraction reussi
+2025-04-15 08:53:43,464 - INFO - Extraction de https://www.euronews.com/2025/04/14/algeria-orders-12-french-embassy-staff-to-leave-the-country-within-40-hours
+2025-04-15 08:53:44,128 - INFO - extraction reussi
+2025-04-15 08:53:44,129 - INFO - Extraction de https://www.euronews.com/2025/04/14/scores-of-civilians-killed-as-sudans-rsf-attacks-displacement-camps-in-darfur
+2025-04-15 08:53:44,728 - INFO - extraction reussi
+2025-04-15 08:53:44,728 - INFO - Extraction de https://www.euronews.com/travel/2025/04/14/is-it-safe-to-travel-to-lanzarote-latest-advice-after-storm-olivier-sweeps-through-canary-
+2025-04-15 08:53:45,418 - INFO - extraction reussi
+2025-04-15 08:53:45,418 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/penguin-protest-march-against-trumps-tariffs-coming-this-week
+2025-04-15 08:53:46,043 - INFO - extraction reussi
+2025-04-15 08:53:46,043 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/eu-sanctions-iranian-prison-and-justice-officials-over-unlawful-arrests-of-its-citizens
+2025-04-15 08:53:46,560 - INFO - extraction reussi
+2025-04-15 08:53:46,560 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/germany-is-open-to-sending-taurus-missiles-to-ukraine-says-merz
+2025-04-15 08:53:47,595 - INFO - extraction reussi
+2025-04-15 08:53:47,595 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/greece-strengthens-military-with-16-anti-ship-missiles-from-france
+2025-04-15 08:53:48,068 - INFO - extraction reussi
+2025-04-15 08:53:48,068 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/museum-buys-rare-emily-bronte-painting-at-auction
+2025-04-15 08:53:49,048 - INFO - extraction reussi
+2025-04-15 08:53:49,049 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/sony-hikes-playstation-5-prices-by-25-in-uk-europe-and-australia
+2025-04-15 08:53:49,718 - INFO - extraction reussi
+2025-04-15 08:53:49,718 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/the-untold-war-un-sounds-alarm-on-violence-against-ukrainian-women
+2025-04-15 08:53:50,544 - INFO - extraction reussi
+2025-04-15 08:53:50,545 - INFO - Extraction de https://www.euronews.com/2025/04/14/algeria-orders-12-french-embassy-staff-to-leave-the-country-within-40-hours
+2025-04-15 08:53:51,461 - INFO - extraction reussi
+2025-04-15 08:53:51,461 - INFO - Extraction de https://www.euronews.com/2025/04/14/scores-of-civilians-killed-as-sudans-rsf-attacks-displacement-camps-in-darfur
+2025-04-15 08:53:52,487 - INFO - extraction reussi
+2025-04-15 08:53:52,487 - INFO - Extraction de https://www.euronews.com/travel/2025/04/14/is-it-safe-to-travel-to-lanzarote-latest-advice-after-storm-olivier-sweeps-through-canary-
+2025-04-15 08:53:53,318 - INFO - extraction reussi
+2025-04-15 08:53:53,318 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/penguin-protest-march-against-trumps-tariffs-coming-this-week
+2025-04-15 08:53:53,889 - INFO - extraction reussi
+2025-04-15 08:53:53,889 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/eu-sanctions-iranian-prison-and-justice-officials-over-unlawful-arrests-of-its-citizens
+2025-04-15 08:53:54,853 - INFO - extraction reussi
+2025-04-15 08:53:54,853 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/germany-is-open-to-sending-taurus-missiles-to-ukraine-says-merz
+2025-04-15 08:53:55,993 - INFO - extraction reussi
+2025-04-15 08:53:55,993 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/greece-strengthens-military-with-16-anti-ship-missiles-from-france
+2025-04-15 08:53:56,756 - INFO - extraction reussi
+2025-04-15 08:53:56,756 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/museum-buys-rare-emily-bronte-painting-at-auction
+2025-04-15 08:53:58,237 - INFO - extraction reussi
+2025-04-15 08:53:58,237 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/sony-hikes-playstation-5-prices-by-25-in-uk-europe-and-australia
+2025-04-15 08:53:58,949 - INFO - extraction reussi
+2025-04-15 08:53:58,949 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/the-untold-war-un-sounds-alarm-on-violence-against-ukrainian-women
+2025-04-15 08:53:59,920 - INFO - extraction reussi
+2025-04-15 08:53:59,920 - INFO - Extraction de https://www.euronews.com/2025/04/14/algeria-orders-12-french-embassy-staff-to-leave-the-country-within-40-hours
+2025-04-15 08:54:00,769 - INFO - extraction reussi
+2025-04-15 08:54:00,769 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/chinas-xi-hits-out-at-trump-says-there-are-no-winners-in-tariff-war
+2025-04-15 08:54:01,745 - INFO - extraction reussi
+2025-04-15 08:54:01,745 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/belgian-insurer-ageas-acquires-uks-esure-from-bain-capital-for-15bn
+2025-04-15 08:54:02,680 - INFO - extraction reussi
+2025-04-15 08:54:02,681 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/paris-olympics-memorabilia-sale-raises-more-than-200000-for-charity
+2025-04-15 08:54:03,468 - INFO - extraction reussi
+2025-04-15 08:54:03,469 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/putin-is-mocking-trump-eu-foreign-ministers-call-for-new-sanctions-on-russia-after-sumy-at
+2025-04-15 08:54:04,478 - INFO - extraction reussi
+2025-04-15 08:54:04,478 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/feast-your-eyes-on-the-best-of-coachella-2025-weekend-1-in-pictures
+2025-04-15 08:54:05,068 - INFO - extraction reussi
+2025-04-15 08:54:05,069 - INFO - Extraction de https://www.euronews.com/2025/04/14/trump-to-host-bukele-as-us-deportation-deal-with-el-salvador-faces-growing-scrutiny
+2025-04-15 08:54:06,033 - INFO - extraction reussi
+2025-04-15 08:54:06,033 - INFO - Extraction de https://www.euronews.com/next/2025/04/14/investment-in-the-eus-ai-start-ups-is-on-the-rise-but-could-trumps-trade-war-threaten-that
+2025-04-15 08:54:07,335 - INFO - extraction reussi
+2025-04-15 08:54:07,335 - INFO - Extraction de https://www.euronews.com/2025/04/14/bangladesh-court-issues-arrest-warrant-for-former-uk-labour-minister-tulip-siddiq
+2025-04-15 08:54:08,299 - INFO - extraction reussi
+2025-04-15 08:54:08,299 - INFO - Extraction de https://www.euronews.com/2025/04/14/unknown-leftist-extremist-group-claims-responsibility-for-athens-bombing
+2025-04-15 08:54:09,104 - INFO - extraction reussi
+2025-04-15 08:54:09,104 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/chinas-xi-hits-out-at-trump-says-there-are-no-winners-in-tariff-war
+2025-04-15 08:54:09,949 - INFO - extraction reussi
+2025-04-15 08:54:09,949 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/belgian-insurer-ageas-acquires-uks-esure-from-bain-capital-for-15bn
+2025-04-15 08:54:10,560 - INFO - extraction reussi
+2025-04-15 08:54:10,561 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/paris-olympics-memorabilia-sale-raises-more-than-200000-for-charity
+2025-04-15 08:54:11,195 - INFO - extraction reussi
+2025-04-15 08:54:11,195 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/putin-is-mocking-trump-eu-foreign-ministers-call-for-new-sanctions-on-russia-after-sumy-at
+2025-04-15 08:54:12,296 - INFO - extraction reussi
+2025-04-15 08:54:12,296 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/feast-your-eyes-on-the-best-of-coachella-2025-weekend-1-in-pictures
+2025-04-15 08:54:12,823 - INFO - extraction reussi
+2025-04-15 08:54:12,823 - INFO - Extraction de https://www.euronews.com/2025/04/14/trump-to-host-bukele-as-us-deportation-deal-with-el-salvador-faces-growing-scrutiny
+2025-04-15 08:54:13,694 - INFO - extraction reussi
+2025-04-15 08:54:13,694 - INFO - Extraction de https://www.euronews.com/next/2025/04/14/investment-in-the-eus-ai-start-ups-is-on-the-rise-but-could-trumps-trade-war-threaten-that
+2025-04-15 08:54:14,940 - INFO - extraction reussi
+2025-04-15 08:54:14,940 - INFO - Extraction de https://www.euronews.com/2025/04/14/bangladesh-court-issues-arrest-warrant-for-former-uk-labour-minister-tulip-siddiq
+2025-04-15 08:54:15,839 - INFO - extraction reussi
+2025-04-15 08:54:15,839 - INFO - Extraction de https://www.euronews.com/2025/04/14/unknown-leftist-extremist-group-claims-responsibility-for-athens-bombing
+2025-04-15 08:54:16,436 - INFO - extraction reussi
+2025-04-15 08:54:16,436 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/chinas-xi-hits-out-at-trump-says-there-are-no-winners-in-tariff-war
+2025-04-15 08:54:17,232 - INFO - extraction reussi
+2025-04-15 08:54:17,232 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/belgian-insurer-ageas-acquires-uks-esure-from-bain-capital-for-15bn
+2025-04-15 08:54:18,033 - INFO - extraction reussi
+2025-04-15 08:54:18,033 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/paris-olympics-memorabilia-sale-raises-more-than-200000-for-charity
+2025-04-15 08:54:18,583 - INFO - extraction reussi
+2025-04-15 08:54:18,583 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/putin-is-mocking-trump-eu-foreign-ministers-call-for-new-sanctions-on-russia-after-sumy-at
+2025-04-15 08:54:19,467 - INFO - extraction reussi
+2025-04-15 08:54:19,468 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/feast-your-eyes-on-the-best-of-coachella-2025-weekend-1-in-pictures
+2025-04-15 08:54:19,986 - INFO - extraction reussi
+2025-04-15 08:54:19,987 - INFO - Extraction de https://www.euronews.com/2025/04/14/trump-to-host-bukele-as-us-deportation-deal-with-el-salvador-faces-growing-scrutiny
+2025-04-15 08:54:21,094 - INFO - extraction reussi
+2025-04-15 08:54:21,095 - INFO - Extraction de https://www.euronews.com/next/2025/04/14/investment-in-the-eus-ai-start-ups-is-on-the-rise-but-could-trumps-trade-war-threaten-that
+2025-04-15 08:54:21,950 - INFO - extraction reussi
+2025-04-15 08:54:21,950 - INFO - Extraction de https://www.euronews.com/2025/04/14/bangladesh-court-issues-arrest-warrant-for-former-uk-labour-minister-tulip-siddiq
+2025-04-15 08:54:22,825 - INFO - extraction reussi
+2025-04-15 08:54:22,825 - INFO - Extraction de https://www.euronews.com/2025/04/14/unknown-leftist-extremist-group-claims-responsibility-for-athens-bombing
+2025-04-15 08:54:23,522 - INFO - extraction reussi
+2025-04-15 08:54:23,522 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/chinas-xi-hits-out-at-trump-says-there-are-no-winners-in-tariff-war
+2025-04-15 08:54:24,406 - INFO - extraction reussi
+2025-04-15 08:54:24,406 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/belgian-insurer-ageas-acquires-uks-esure-from-bain-capital-for-15bn
+2025-04-15 08:54:25,480 - INFO - extraction reussi
+2025-04-15 08:54:25,480 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/paris-olympics-memorabilia-sale-raises-more-than-200000-for-charity
+2025-04-15 08:54:26,121 - INFO - extraction reussi
+2025-04-15 08:54:26,121 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/putin-is-mocking-trump-eu-foreign-ministers-call-for-new-sanctions-on-russia-after-sumy-at
+2025-04-15 08:54:27,352 - INFO - extraction reussi
+2025-04-15 08:54:27,353 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/feast-your-eyes-on-the-best-of-coachella-2025-weekend-1-in-pictures
+2025-04-15 08:54:27,894 - INFO - extraction reussi
+2025-04-15 08:54:27,894 - INFO - Extraction de https://www.euronews.com/2025/04/14/trump-to-host-bukele-as-us-deportation-deal-with-el-salvador-faces-growing-scrutiny
+2025-04-15 08:54:28,732 - INFO - extraction reussi
+2025-04-15 08:54:28,732 - INFO - Extraction de https://www.euronews.com/next/2025/04/14/investment-in-the-eus-ai-start-ups-is-on-the-rise-but-could-trumps-trade-war-threaten-that
+2025-04-15 08:54:29,835 - INFO - extraction reussi
+2025-04-15 08:54:29,836 - INFO - Extraction de https://www.euronews.com/2025/04/14/bangladesh-court-issues-arrest-warrant-for-former-uk-labour-minister-tulip-siddiq
+2025-04-15 08:54:30,641 - INFO - extraction reussi
+2025-04-15 08:54:30,641 - INFO - Extraction de https://www.euronews.com/2025/04/14/unknown-leftist-extremist-group-claims-responsibility-for-athens-bombing
+2025-04-15 08:54:31,362 - INFO - extraction reussi
+2025-04-15 08:54:31,363 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/tariffs-europes-textile-sector-holds-its-breath
+2025-04-15 08:54:32,269 - INFO - extraction reussi
+2025-04-15 08:54:32,270 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/chinese-investment-in-the-uk-will-face-high-trust-bar-says-minister
+2025-04-15 08:54:34,102 - INFO - extraction reussi
+2025-04-15 08:54:34,103 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/wheres-the-voice-of-the-wto-newsletter
+2025-04-15 08:54:36,227 - INFO - extraction reussi
+2025-04-15 08:54:36,228 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/european-equities-rise-on-trumps-temporary-tech-tariff-exemption
+2025-04-15 08:54:37,184 - INFO - extraction reussi
+2025-04-15 08:54:37,184 - INFO - Extraction de https://www.euronews.com/2025/04/14/president-noboa-secures-re-election-in-ecuador
+2025-04-15 08:54:38,172 - INFO - extraction reussi
+2025-04-15 08:54:38,172 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/trump-team-tries-to-bolster-confidence-after-tariffs-chaos-in-markets
+2025-04-15 08:54:39,511 - INFO - extraction reussi
+2025-04-15 08:54:39,512 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/my-favourite-cake-directors-given-suspended-prison-sentence-in-iran-for-showing-unveiled-w
+2025-04-15 08:54:40,861 - INFO - extraction reussi
+2025-04-15 08:54:40,862 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/week-ahead-ecb-rate-decision-chinas-gdp-and-major-company-earnings
+2025-04-15 08:54:41,717 - INFO - extraction reussi
+2025-04-15 08:54:41,717 - INFO - Extraction de https://www.euronews.com/green/2025/04/14/elephant-retirement-home-this-zoo-in-spain-is-helping-elderly-animals-to-age-gracefully
+2025-04-15 08:54:42,647 - INFO - extraction reussi
+2025-04-15 08:54:42,648 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/tariffs-europes-textile-sector-holds-its-breath
+2025-04-15 08:54:43,588 - INFO - extraction reussi
+2025-04-15 08:54:43,588 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/chinese-investment-in-the-uk-will-face-high-trust-bar-says-minister
+2025-04-15 08:54:44,194 - INFO - extraction reussi
+2025-04-15 08:54:44,194 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/wheres-the-voice-of-the-wto-newsletter
+2025-04-15 08:54:45,099 - INFO - extraction reussi
+2025-04-15 08:54:45,099 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/european-equities-rise-on-trumps-temporary-tech-tariff-exemption
+2025-04-15 08:54:45,810 - INFO - extraction reussi
+2025-04-15 08:54:45,811 - INFO - Extraction de https://www.euronews.com/2025/04/14/president-noboa-secures-re-election-in-ecuador
+2025-04-15 08:54:46,525 - INFO - extraction reussi
+2025-04-15 08:54:46,525 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/trump-team-tries-to-bolster-confidence-after-tariffs-chaos-in-markets
+2025-04-15 08:54:47,415 - INFO - extraction reussi
+2025-04-15 08:54:47,416 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/my-favourite-cake-directors-given-suspended-prison-sentence-in-iran-for-showing-unveiled-w
+2025-04-15 08:54:48,185 - INFO - extraction reussi
+2025-04-15 08:54:48,185 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/week-ahead-ecb-rate-decision-chinas-gdp-and-major-company-earnings
+2025-04-15 08:54:48,759 - INFO - extraction reussi
+2025-04-15 08:54:48,759 - INFO - Extraction de https://www.euronews.com/green/2025/04/14/elephant-retirement-home-this-zoo-in-spain-is-helping-elderly-animals-to-age-gracefully
+2025-04-15 08:54:49,770 - INFO - extraction reussi
+2025-04-15 08:54:49,771 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/tariffs-europes-textile-sector-holds-its-breath
+2025-04-15 08:54:50,699 - INFO - extraction reussi
+2025-04-15 08:54:50,699 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/chinese-investment-in-the-uk-will-face-high-trust-bar-says-minister
+2025-04-15 08:54:51,503 - INFO - extraction reussi
+2025-04-15 08:54:51,503 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/wheres-the-voice-of-the-wto-newsletter
+2025-04-15 08:54:52,527 - INFO - extraction reussi
+2025-04-15 08:54:52,527 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/european-equities-rise-on-trumps-temporary-tech-tariff-exemption
+2025-04-15 08:54:53,410 - INFO - extraction reussi
+2025-04-15 08:54:53,410 - INFO - Extraction de https://www.euronews.com/2025/04/14/president-noboa-secures-re-election-in-ecuador
+2025-04-15 08:54:53,868 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/trump-team-tries-to-bolster-confidence-after-tariffs-chaos-in-markets
+2025-04-15 08:54:55,171 - INFO - extraction reussi
+2025-04-15 08:54:55,172 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/my-favourite-cake-directors-given-suspended-prison-sentence-in-iran-for-showing-unveiled-w
+2025-04-15 08:54:55,853 - INFO - extraction reussi
+2025-04-15 08:54:55,853 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/week-ahead-ecb-rate-decision-chinas-gdp-and-major-company-earnings
+2025-04-15 08:54:56,618 - INFO - extraction reussi
+2025-04-15 08:54:56,618 - INFO - Extraction de https://www.euronews.com/green/2025/04/14/elephant-retirement-home-this-zoo-in-spain-is-helping-elderly-animals-to-age-gracefully
+2025-04-15 08:54:57,443 - INFO - extraction reussi
+2025-04-15 08:54:57,443 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/beloved-british-actress-jean-marsh-star-of-show-upstairs-downstairs-dies-aged-90
+2025-04-15 08:54:59,173 - INFO - extraction reussi
+2025-04-15 08:54:59,173 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/can-europe-build-a-peacekeeping-force-in-ukraine-without-the-us
+2025-04-15 08:55:00,499 - INFO - extraction reussi
+2025-04-15 08:55:00,499 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/culture-agenda-the-best-things-to-do-hear-see-or-watch-in-europe-this-week
+2025-04-15 08:55:05,473 - INFO - extraction reussi
+2025-04-15 08:55:05,474 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/is-spain-banning-the-use-of-50-notes
+2025-04-15 08:55:06,854 - INFO - extraction reussi
+2025-04-15 08:55:06,855 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/mario-vargas-llosa-peruvian-author-and-nobel-literature-laureate-dies-at-89
+2025-04-15 08:55:07,827 - INFO - extraction reussi
+2025-04-15 08:55:07,827 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/european-stock-markets-to-rise-as-trump-hints-at-resuming-tariffs-on-electronics-soon
+2025-04-15 08:55:08,726 - INFO - extraction reussi
+2025-04-15 08:55:08,726 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/chinas-exports-jump-124-as-imports-fall-under-trump-era-tariffs
+2025-04-15 08:55:09,490 - INFO - extraction reussi
+2025-04-15 08:55:09,490 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/meet-the-ceo-trying-to-increase-the-net-worth-of-an-entire-generation
+2025-04-15 08:55:13,087 - INFO - extraction reussi
+2025-04-15 08:55:13,087 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/zelenskyy-slams-russia-as-ballistic-missiles-strike-sumy-killing-dozens-of-civilians
+2025-04-15 08:55:14,787 - INFO - extraction reussi
+2025-04-15 08:55:14,787 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/beloved-british-actress-jean-marsh-star-of-show-upstairs-downstairs-dies-aged-90
+2025-04-15 08:55:15,490 - INFO - extraction reussi
+2025-04-15 08:55:15,490 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/can-europe-build-a-peacekeeping-force-in-ukraine-without-the-us
+2025-04-15 08:55:16,131 - INFO - extraction reussi
+2025-04-15 08:55:16,132 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/culture-agenda-the-best-things-to-do-hear-see-or-watch-in-europe-this-week
+2025-04-15 08:55:18,678 - INFO - extraction reussi
+2025-04-15 08:55:18,678 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/is-spain-banning-the-use-of-50-notes
+2025-04-15 08:55:19,682 - INFO - extraction reussi
+2025-04-15 08:55:19,682 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/mario-vargas-llosa-peruvian-author-and-nobel-literature-laureate-dies-at-89
+2025-04-15 08:55:20,640 - INFO - extraction reussi
+2025-04-15 08:55:20,640 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/european-stock-markets-to-rise-as-trump-hints-at-resuming-tariffs-on-electronics-soon
+2025-04-15 08:55:21,517 - INFO - extraction reussi
+2025-04-15 08:55:21,518 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/chinas-exports-jump-124-as-imports-fall-under-trump-era-tariffs
+2025-04-15 08:55:22,365 - INFO - extraction reussi
+2025-04-15 08:55:22,365 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/meet-the-ceo-trying-to-increase-the-net-worth-of-an-entire-generation
+2025-04-15 08:55:23,097 - INFO - extraction reussi
+2025-04-15 08:55:23,097 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/zelenskyy-slams-russia-as-ballistic-missiles-strike-sumy-killing-dozens-of-civilians
+2025-04-15 08:55:23,672 - INFO - extraction reussi
+2025-04-15 08:55:23,672 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/beloved-british-actress-jean-marsh-star-of-show-upstairs-downstairs-dies-aged-90
+2025-04-15 08:55:24,108 - INFO - extraction reussi
+2025-04-15 08:55:24,108 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/can-europe-build-a-peacekeeping-force-in-ukraine-without-the-us
+2025-04-15 08:55:24,579 - INFO - extraction reussi
+2025-04-15 08:55:24,579 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/culture-agenda-the-best-things-to-do-hear-see-or-watch-in-europe-this-week
+2025-04-15 08:55:26,145 - INFO - extraction reussi
+2025-04-15 08:55:26,145 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/is-spain-banning-the-use-of-50-notes
+2025-04-15 08:55:27,004 - INFO - extraction reussi
+2025-04-15 08:55:27,004 - INFO - Extraction de https://www.euronews.com/culture/2025/04/14/mario-vargas-llosa-peruvian-author-and-nobel-literature-laureate-dies-at-89
+2025-04-15 08:55:27,754 - INFO - extraction reussi
+2025-04-15 08:55:27,755 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/european-stock-markets-to-rise-as-trump-hints-at-resuming-tariffs-on-electronics-soon
+2025-04-15 08:55:28,307 - INFO - extraction reussi
+2025-04-15 08:55:28,308 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/chinas-exports-jump-124-as-imports-fall-under-trump-era-tariffs
+2025-04-15 08:55:28,785 - INFO - extraction reussi
+2025-04-15 08:55:28,785 - INFO - Extraction de https://www.euronews.com/business/2025/04/14/meet-the-ceo-trying-to-increase-the-net-worth-of-an-entire-generation
+2025-04-15 08:55:30,042 - INFO - extraction reussi
+2025-04-15 08:55:30,042 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/zelenskyy-slams-russia-as-ballistic-missiles-strike-sumy-killing-dozens-of-civilians
+2025-04-15 08:55:30,521 - INFO - extraction reussi
+2025-04-15 08:55:30,521 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/hungarys-opposition-leader-peter-magyar-holds-a-rally-in-budapest
+2025-04-15 08:55:31,094 - INFO - extraction reussi
+2025-04-15 08:55:31,094 - INFO - Extraction de https://www.euronews.com/2025/04/14/expo-2025-opens-in-osaka-with-about-80-pavilions-for-visitors-to-enjoy
+2025-04-15 08:55:31,976 - INFO - extraction reussi
+2025-04-15 08:55:31,976 - INFO - Extraction de https://www.euronews.com/2025/04/13/us-commerce-secretary-says-tariff-exemptions-on-electronics-and-pharmaceuticals-are-tempor
+2025-04-15 08:55:32,632 - INFO - extraction reussi
+2025-04-15 08:55:32,633 - INFO - Extraction de https://www.euronews.com/2025/04/13/trump-is-fully-fit-to-serve-as-commander-in-chief-his-doctor-says-after-recent-physical
+2025-04-15 08:55:33,314 - INFO - extraction reussi
+2025-04-15 08:55:33,314 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/13/russia-was-and-remains-the-aggressor-says-von-der-leyen-following-deadly-attack-on-ukraine
+2025-04-15 08:55:34,510 - INFO - extraction reussi
+2025-04-15 08:55:34,511 - INFO - Extraction de https://www.euronews.com/next/2025/04/13/spacex-launches-21-starlink-satellites-into-low-earth-orbit
+2025-04-15 08:55:35,178 - INFO - extraction reussi
+2025-04-15 08:55:35,178 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/13/spanish-authorities-say-they-dismantled-a-human-trafficking-organisation-smuggling-migrant
+2025-04-15 08:55:36,178 - INFO - extraction reussi
+2025-04-15 08:55:36,178 - INFO - Extraction de https://www.euronews.com/2025/04/13/pope-francis-makes-surprise-visit-to-st-peters-square-following-palm-sunday-mass
+2025-04-15 08:55:37,385 - INFO - extraction reussi
+2025-04-15 08:55:37,385 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/13/more-than-20-people-killed-in-russian-missile-attack-on-ukrainian-city-of-sumy
+2025-04-15 08:55:38,924 - INFO - extraction reussi
+2025-04-15 08:55:38,924 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/hungarys-opposition-leader-peter-magyar-holds-a-rally-in-budapest
+2025-04-15 08:55:39,401 - INFO - extraction reussi
+2025-04-15 08:55:39,401 - INFO - Extraction de https://www.euronews.com/2025/04/14/expo-2025-opens-in-osaka-with-about-80-pavilions-for-visitors-to-enjoy
+2025-04-15 08:55:40,013 - INFO - extraction reussi
+2025-04-15 08:55:40,013 - INFO - Extraction de https://www.euronews.com/2025/04/13/us-commerce-secretary-says-tariff-exemptions-on-electronics-and-pharmaceuticals-are-tempor
+2025-04-15 08:55:40,450 - INFO - extraction reussi
+2025-04-15 08:55:40,450 - INFO - Extraction de https://www.euronews.com/2025/04/13/trump-is-fully-fit-to-serve-as-commander-in-chief-his-doctor-says-after-recent-physical
+2025-04-15 08:55:40,887 - INFO - extraction reussi
+2025-04-15 08:55:40,887 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/13/russia-was-and-remains-the-aggressor-says-von-der-leyen-following-deadly-attack-on-ukraine
+2025-04-15 08:55:41,388 - INFO - extraction reussi
+2025-04-15 08:55:41,388 - INFO - Extraction de https://www.euronews.com/next/2025/04/13/spacex-launches-21-starlink-satellites-into-low-earth-orbit
+2025-04-15 08:55:41,916 - INFO - extraction reussi
+2025-04-15 08:55:41,916 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/13/spanish-authorities-say-they-dismantled-a-human-trafficking-organisation-smuggling-migrant
+2025-04-15 08:55:42,327 - INFO - extraction reussi
+2025-04-15 08:55:42,327 - INFO - Extraction de https://www.euronews.com/2025/04/13/pope-francis-makes-surprise-visit-to-st-peters-square-following-palm-sunday-mass
+2025-04-15 08:55:43,582 - INFO - extraction reussi
+2025-04-15 08:55:43,583 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/13/more-than-20-people-killed-in-russian-missile-attack-on-ukrainian-city-of-sumy
+2025-04-15 08:55:44,089 - INFO - extraction reussi
+2025-04-15 08:55:44,089 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/14/hungarys-opposition-leader-peter-magyar-holds-a-rally-in-budapest
+2025-04-15 08:55:44,595 - INFO - extraction reussi
+2025-04-15 08:55:44,595 - INFO - Extraction de https://www.euronews.com/2025/04/14/expo-2025-opens-in-osaka-with-about-80-pavilions-for-visitors-to-enjoy
+2025-04-15 08:55:45,178 - INFO - extraction reussi
+2025-04-15 08:55:45,178 - INFO - Extraction de https://www.euronews.com/2025/04/13/us-commerce-secretary-says-tariff-exemptions-on-electronics-and-pharmaceuticals-are-tempor
+2025-04-15 08:55:45,652 - INFO - extraction reussi
+2025-04-15 08:55:45,652 - INFO - Extraction de https://www.euronews.com/2025/04/13/trump-is-fully-fit-to-serve-as-commander-in-chief-his-doctor-says-after-recent-physical
+2025-04-15 08:55:46,228 - INFO - extraction reussi
+2025-04-15 08:55:46,228 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/13/russia-was-and-remains-the-aggressor-says-von-der-leyen-following-deadly-attack-on-ukraine
+2025-04-15 08:55:47,151 - INFO - extraction reussi
+2025-04-15 08:55:47,151 - INFO - Extraction de https://www.euronews.com/next/2025/04/13/spacex-launches-21-starlink-satellites-into-low-earth-orbit
+2025-04-15 08:55:47,868 - INFO - extraction reussi
+2025-04-15 08:55:47,869 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/13/spanish-authorities-say-they-dismantled-a-human-trafficking-organisation-smuggling-migrant
+2025-04-15 08:55:48,590 - INFO - extraction reussi
+2025-04-15 08:55:48,590 - INFO - Extraction de https://www.euronews.com/2025/04/13/pope-francis-makes-surprise-visit-to-st-peters-square-following-palm-sunday-mass
+2025-04-15 08:55:49,258 - INFO - extraction reussi
+2025-04-15 08:55:49,258 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/13/more-than-20-people-killed-in-russian-missile-attack-on-ukrainian-city-of-sumy
+2025-04-15 08:55:49,976 - INFO - extraction reussi
+2025-04-15 08:55:49,976 - INFO - Extraction de https://www.euronews.com/culture/2025/04/13/la-almazara-philippe-starck-on-designing-his-surreal-olive-oil-mill-in-the-heart-of-andalu
+2025-04-15 08:55:51,430 - INFO - extraction reussi
+2025-04-15 08:55:51,431 - INFO - Extraction de https://www.euronews.com/2025/04/13/israel-strikes-hospital-in-gaza-forcing-evacuation-as-strikes-intensify
+2025-04-15 08:55:52,752 - INFO - extraction reussi
+2025-04-15 08:55:52,752 - INFO - Extraction de https://www.euronews.com/travel/2025/04/13/travel-websites-accessibility-worst-offenders
+2025-04-15 08:55:54,060 - INFO - extraction reussi
+2025-04-15 08:55:54,060 - INFO - Extraction de https://www.euronews.com/green/2025/04/13/an-ecocide-how-olive-oil-giants-are-using-a-mega-dam-to-take-over-portugals-growing-region
+2025-04-15 08:55:55,450 - INFO - extraction reussi
+2025-04-15 08:55:55,451 - INFO - Extraction de https://www.euronews.com/next/2025/04/13/what-does-it-mean-to-raise-a-child-in-the-age-of-ai-one-father-is-finding-out-through-play
+2025-04-15 08:55:57,045 - INFO - extraction reussi
+2025-04-15 08:55:57,045 - INFO - Extraction de https://www.euronews.com/business/2025/04/13/how-a-dutch-trading-company-started-the-worlds-first-stock-exchange
+2025-04-15 08:55:58,113 - INFO - extraction reussi
+2025-04-15 08:55:58,114 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/13/lavrov-and-sybiha-trade-accusations-of-striking-energy-infrastructure
+2025-04-15 08:55:59,129 - INFO - extraction reussi
+2025-04-15 08:55:59,130 - INFO - Extraction de https://www.euronews.com/culture/2025/04/13/la-almazara-philippe-starck-on-designing-his-surreal-olive-oil-mill-in-the-heart-of-andalu
+2025-04-15 08:56:00,596 - INFO - extraction reussi
+2025-04-15 08:56:00,596 - INFO - Extraction de https://www.euronews.com/2025/04/13/israel-strikes-hospital-in-gaza-forcing-evacuation-as-strikes-intensify
+2025-04-15 08:56:01,644 - INFO - extraction reussi
+2025-04-15 08:56:01,644 - INFO - Extraction de https://www.euronews.com/travel/2025/04/13/travel-websites-accessibility-worst-offenders
+2025-04-15 08:56:02,695 - INFO - extraction reussi
+2025-04-15 08:56:02,695 - INFO - Extraction de https://www.euronews.com/green/2025/04/13/an-ecocide-how-olive-oil-giants-are-using-a-mega-dam-to-take-over-portugals-growing-region
+2025-04-15 08:56:03,770 - INFO - extraction reussi
+2025-04-15 08:56:03,771 - INFO - Extraction de https://www.euronews.com/next/2025/04/13/what-does-it-mean-to-raise-a-child-in-the-age-of-ai-one-father-is-finding-out-through-play
+2025-04-15 08:56:05,144 - INFO - extraction reussi
+2025-04-15 08:56:05,144 - INFO - Extraction de https://www.euronews.com/business/2025/04/13/how-a-dutch-trading-company-started-the-worlds-first-stock-exchange
+2025-04-15 08:56:06,346 - INFO - extraction reussi
+2025-04-15 08:56:06,347 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/13/lavrov-and-sybiha-trade-accusations-of-striking-energy-infrastructure
+2025-04-15 08:56:07,169 - INFO - extraction reussi
+2025-04-15 08:56:07,170 - INFO - Extraction de https://www.euronews.com/culture/2025/04/13/la-almazara-philippe-starck-on-designing-his-surreal-olive-oil-mill-in-the-heart-of-andalu
+2025-04-15 08:56:08,742 - INFO - extraction reussi
+2025-04-15 08:56:08,743 - INFO - Extraction de https://www.euronews.com/2025/04/13/israel-strikes-hospital-in-gaza-forcing-evacuation-as-strikes-intensify
+2025-04-15 08:56:09,736 - INFO - extraction reussi
+2025-04-15 08:56:09,737 - INFO - Extraction de https://www.euronews.com/travel/2025/04/13/travel-websites-accessibility-worst-offenders
+2025-04-15 08:56:10,904 - INFO - extraction reussi
+2025-04-15 08:56:10,904 - INFO - Extraction de https://www.euronews.com/green/2025/04/13/an-ecocide-how-olive-oil-giants-are-using-a-mega-dam-to-take-over-portugals-growing-region
+2025-04-15 08:56:11,997 - INFO - extraction reussi
+2025-04-15 08:56:11,997 - INFO - Extraction de https://www.euronews.com/next/2025/04/13/what-does-it-mean-to-raise-a-child-in-the-age-of-ai-one-father-is-finding-out-through-play
+2025-04-15 08:56:13,677 - INFO - extraction reussi
+2025-04-15 08:56:13,677 - INFO - Extraction de https://www.euronews.com/business/2025/04/13/how-a-dutch-trading-company-started-the-worlds-first-stock-exchange
+2025-04-15 08:56:14,657 - INFO - extraction reussi
+2025-04-15 08:56:14,657 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/13/lavrov-and-sybiha-trade-accusations-of-striking-energy-infrastructure
+2025-04-15 08:56:15,434 - INFO - extraction reussi
+2025-04-15 08:56:15,434 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/13/whaling-season-cancelled-for-second-consecutive-year-in-iceland
+2025-04-15 08:56:16,380 - INFO - extraction reussi
+2025-04-15 08:56:16,380 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/13/thousands-of-poles-march-in-far-right-rally-to-mark-independence-day
+2025-04-15 08:56:17,499 - INFO - extraction reussi
+2025-04-15 08:56:17,499 - INFO - Extraction de https://www.euronews.com/2025/04/12/hungarian-two-tailed-dog-party-stages-largest-protest-to-date-against-amendment-of-assembl
+2025-04-15 08:56:18,209 - INFO - extraction reussi
+2025-04-15 08:56:18,209 - INFO - Extraction de https://www.euronews.com/2025/04/12/a-still-recovering-pope-francis-makes-surprise-visit-to-basilica-santa-maria-maggiore-in-r
+2025-04-15 08:56:19,236 - INFO - extraction reussi
+2025-04-15 08:56:19,236 - INFO - Extraction de https://www.euronews.com/culture/2025/04/12/extraordinary-discovery-in-sardinia-dinosaur-tracks-found-during-filming-of-a-documentary
+2025-04-15 08:56:19,924 - INFO - extraction reussi
+2025-04-15 08:56:19,924 - INFO - Extraction de https://www.euronews.com/2025/04/12/iran-and-us-to-hold-talks-to-jump-start-negotiations-over-tehrans-advancing-nuclear-progra
+2025-04-15 08:56:20,618 - INFO - extraction reussi
+2025-04-15 08:56:20,618 - INFO - Extraction de https://www.euronews.com/2025/04/12/azerbaijani-border-guards-foil-armed-drug-smuggling-attempt-from-iran-following-deadly-sho
+2025-04-15 08:56:22,048 - INFO - extraction reussi
+2025-04-15 08:56:22,048 - INFO - Extraction de https://www.euronews.com/2025/04/12/smartphones-and-computers-including-from-china-exempt-from-new-tariffs-imposed-by-trump
+2025-04-15 08:56:22,690 - INFO - extraction reussi
+2025-04-15 08:56:22,691 - INFO - Extraction de https://www.euronews.com/2025/04/12/world-expo-2025-opens-in-osaka-themed-designing-future-society-for-our-lives
+2025-04-15 08:56:23,456 - INFO - extraction reussi
+2025-04-15 08:56:23,457 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/13/whaling-season-cancelled-for-second-consecutive-year-in-iceland
+2025-04-15 08:56:24,195 - INFO - extraction reussi
+2025-04-15 08:56:24,196 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/13/thousands-of-poles-march-in-far-right-rally-to-mark-independence-day
+2025-04-15 08:56:24,977 - INFO - extraction reussi
+2025-04-15 08:56:24,977 - INFO - Extraction de https://www.euronews.com/2025/04/12/hungarian-two-tailed-dog-party-stages-largest-protest-to-date-against-amendment-of-assembl
+2025-04-15 08:56:25,469 - INFO - extraction reussi
+2025-04-15 08:56:25,469 - INFO - Extraction de https://www.euronews.com/2025/04/12/a-still-recovering-pope-francis-makes-surprise-visit-to-basilica-santa-maria-maggiore-in-r
+2025-04-15 08:56:26,195 - INFO - extraction reussi
+2025-04-15 08:56:26,196 - INFO - Extraction de https://www.euronews.com/culture/2025/04/12/extraordinary-discovery-in-sardinia-dinosaur-tracks-found-during-filming-of-a-documentary
+2025-04-15 08:56:26,738 - INFO - extraction reussi
+2025-04-15 08:56:26,739 - INFO - Extraction de https://www.euronews.com/2025/04/12/iran-and-us-to-hold-talks-to-jump-start-negotiations-over-tehrans-advancing-nuclear-progra
+2025-04-15 08:56:27,635 - INFO - extraction reussi
+2025-04-15 08:56:27,636 - INFO - Extraction de https://www.euronews.com/2025/04/12/azerbaijani-border-guards-foil-armed-drug-smuggling-attempt-from-iran-following-deadly-sho
+2025-04-15 08:56:28,086 - INFO - extraction reussi
+2025-04-15 08:56:28,086 - INFO - Extraction de https://www.euronews.com/2025/04/12/smartphones-and-computers-including-from-china-exempt-from-new-tariffs-imposed-by-trump
+2025-04-15 08:56:28,767 - INFO - extraction reussi
+2025-04-15 08:56:28,767 - INFO - Extraction de https://www.euronews.com/2025/04/12/world-expo-2025-opens-in-osaka-themed-designing-future-society-for-our-lives
+2025-04-15 08:56:29,444 - INFO - extraction reussi
+2025-04-15 08:56:29,445 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/med5-interior-ministers-call-for-strengthening-of-frontex-and-agreements-with-third-countr
+2025-04-15 08:56:30,484 - INFO - extraction reussi
+2025-04-15 08:56:30,484 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/multiple-people-injured-as-russian-drone-attack-sets-off-large-fires-in-kyiv
+2025-04-15 08:56:32,321 - INFO - extraction reussi
+2025-04-15 08:56:32,321 - INFO - Extraction de https://www.euronews.com/culture/2025/04/12/you-cant-make-a-living-writing-books-in-poland-royalty-row-erupts-over-bestsellers-earning
+2025-04-15 08:56:33,382 - INFO - extraction reussi
+2025-04-15 08:56:33,383 - INFO - Extraction de https://www.euronews.com/2025/04/12/nato-chief-warns-of-possible-russian-nuclear-weapons-in-space
+2025-04-15 08:56:34,140 - INFO - extraction reussi
+2025-04-15 08:56:34,140 - INFO - Extraction de https://www.euronews.com/2025/04/12/palestinian-families-once-again-face-displacement-and-uncertainty-following-latest-israeli
+2025-04-15 08:56:34,863 - INFO - extraction reussi
+2025-04-15 08:56:34,863 - INFO - Extraction de https://www.euronews.com/culture/2025/04/12/nasa-removes-graphic-novel-featuring-female-astronaut-as-trumps-diversity-purge-continues
+2025-04-15 08:56:35,687 - INFO - extraction reussi
+2025-04-15 08:56:35,687 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/from-soldier-to-influencer-bridging-gen-z-and-the-bundeswehr
+2025-04-15 08:56:37,691 - INFO - extraction reussi
+2025-04-15 08:56:37,691 - INFO - Extraction de https://www.euronews.com/travel/2025/04/12/the-paperwork-is-a-nightmare-the-romance-and-red-tape-of-dating-as-a-digital-nomad
+2025-04-15 08:56:38,815 - INFO - extraction reussi
+2025-04-15 08:56:38,816 - INFO - Extraction de https://www.euronews.com/green/2025/04/12/from-airlines-to-trainers-this-german-ngo-stops-companies-from-greenwashing-products
+2025-04-15 08:56:39,891 - INFO - extraction reussi
+2025-04-15 08:56:39,891 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/med5-interior-ministers-call-for-strengthening-of-frontex-and-agreements-with-third-countr
+2025-04-15 08:56:40,598 - INFO - extraction reussi
+2025-04-15 08:56:40,598 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/multiple-people-injured-as-russian-drone-attack-sets-off-large-fires-in-kyiv
+2025-04-15 08:56:41,220 - INFO - extraction reussi
+2025-04-15 08:56:41,220 - INFO - Extraction de https://www.euronews.com/culture/2025/04/12/you-cant-make-a-living-writing-books-in-poland-royalty-row-erupts-over-bestsellers-earning
+2025-04-15 08:56:42,218 - INFO - extraction reussi
+2025-04-15 08:56:42,218 - INFO - Extraction de https://www.euronews.com/2025/04/12/nato-chief-warns-of-possible-russian-nuclear-weapons-in-space
+2025-04-15 08:56:42,753 - INFO - extraction reussi
+2025-04-15 08:56:42,753 - INFO - Extraction de https://www.euronews.com/2025/04/12/palestinian-families-once-again-face-displacement-and-uncertainty-following-latest-israeli
+2025-04-15 08:56:43,302 - INFO - extraction reussi
+2025-04-15 08:56:43,303 - INFO - Extraction de https://www.euronews.com/culture/2025/04/12/nasa-removes-graphic-novel-featuring-female-astronaut-as-trumps-diversity-purge-continues
+2025-04-15 08:56:43,898 - INFO - extraction reussi
+2025-04-15 08:56:43,898 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/from-soldier-to-influencer-bridging-gen-z-and-the-bundeswehr
+2025-04-15 08:56:45,182 - INFO - extraction reussi
+2025-04-15 08:56:45,182 - INFO - Extraction de https://www.euronews.com/travel/2025/04/12/the-paperwork-is-a-nightmare-the-romance-and-red-tape-of-dating-as-a-digital-nomad
+2025-04-15 08:56:46,039 - INFO - extraction reussi
+2025-04-15 08:56:46,039 - INFO - Extraction de https://www.euronews.com/green/2025/04/12/from-airlines-to-trainers-this-german-ngo-stops-companies-from-greenwashing-products
+2025-04-15 08:56:46,973 - INFO - extraction reussi
+2025-04-15 08:56:46,974 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/med5-interior-ministers-call-for-strengthening-of-frontex-and-agreements-with-third-countr
+2025-04-15 08:56:47,772 - INFO - extraction reussi
+2025-04-15 08:56:47,772 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/multiple-people-injured-as-russian-drone-attack-sets-off-large-fires-in-kyiv
+2025-04-15 08:56:48,566 - INFO - extraction reussi
+2025-04-15 08:56:48,566 - INFO - Extraction de https://www.euronews.com/culture/2025/04/12/you-cant-make-a-living-writing-books-in-poland-royalty-row-erupts-over-bestsellers-earning
+2025-04-15 08:56:49,426 - INFO - extraction reussi
+2025-04-15 08:56:49,427 - INFO - Extraction de https://www.euronews.com/2025/04/12/nato-chief-warns-of-possible-russian-nuclear-weapons-in-space
+2025-04-15 08:56:49,986 - INFO - extraction reussi
+2025-04-15 08:56:49,986 - INFO - Extraction de https://www.euronews.com/2025/04/12/palestinian-families-once-again-face-displacement-and-uncertainty-following-latest-israeli
+2025-04-15 08:56:50,480 - INFO - extraction reussi
+2025-04-15 08:56:50,480 - INFO - Extraction de https://www.euronews.com/culture/2025/04/12/nasa-removes-graphic-novel-featuring-female-astronaut-as-trumps-diversity-purge-continues
+2025-04-15 08:56:50,964 - INFO - extraction reussi
+2025-04-15 08:56:50,964 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/from-soldier-to-influencer-bridging-gen-z-and-the-bundeswehr
+2025-04-15 08:56:52,197 - INFO - extraction reussi
+2025-04-15 08:56:52,197 - INFO - Extraction de https://www.euronews.com/travel/2025/04/12/the-paperwork-is-a-nightmare-the-romance-and-red-tape-of-dating-as-a-digital-nomad
+2025-04-15 08:56:53,038 - INFO - extraction reussi
+2025-04-15 08:56:53,038 - INFO - Extraction de https://www.euronews.com/green/2025/04/12/from-airlines-to-trainers-this-german-ngo-stops-companies-from-greenwashing-products
+2025-04-15 08:56:53,795 - INFO - extraction reussi
+2025-04-15 08:56:53,795 - INFO - Extraction de https://www.euronews.com/health/2025/04/12/measles-beef-fat-and-bird-flu-what-europeans-say-about-rfk-jrs-make-america-healthy-again-
+2025-04-15 08:56:54,857 - INFO - extraction reussi
+2025-04-15 08:56:54,857 - INFO - Extraction de https://www.euronews.com/culture/2025/04/12/in-pictures-the-week-in-culture
+2025-04-15 08:56:56,417 - INFO - extraction reussi
+2025-04-15 08:56:56,417 - INFO - Extraction de https://www.euronews.com/business/2025/04/12/what-this-weeks-stock-market-volatility-means-for-european-investors
+2025-04-15 08:56:58,286 - INFO - extraction reussi
+2025-04-15 08:56:58,287 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/as-trump-brings-the-eu-and-china-closer-reality-keeps-pulling-them-apart
+2025-04-15 08:56:59,714 - INFO - extraction reussi
+2025-04-15 08:56:59,714 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/brussels-my-love-the-rise-and-fall-of-marine-le-pen
+2025-04-15 08:57:00,638 - INFO - extraction reussi
+2025-04-15 08:57:00,638 - INFO - Extraction de https://www.euronews.com/business/2025/04/12/can-teachers-afford-to-buy-a-house-in-europe-and-how-long-would-it-take
+2025-04-15 08:57:02,161 - INFO - extraction reussi
+2025-04-15 08:57:02,162 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/bomb-explodes-near-national-train-company-office-in-athens-no-injuries-reported
+2025-04-15 08:57:02,934 - INFO - extraction reussi
+2025-04-15 08:57:02,934 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/erdogan-positions-turkey-as-point-of-stability-for-european-security-and-syria
+2025-04-15 08:57:04,372 - INFO - extraction reussi
+2025-04-15 08:57:04,372 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/czech-republic-maintains-border-checks-as-slovakia-tackles-foot-and-mouth-disease
+2025-04-15 08:57:05,658 - INFO - extraction reussi
+2025-04-15 08:57:05,659 - INFO - Extraction de https://www.euronews.com/health/2025/04/12/measles-beef-fat-and-bird-flu-what-europeans-say-about-rfk-jrs-make-america-healthy-again-
+2025-04-15 08:57:06,636 - INFO - extraction reussi
+2025-04-15 08:57:06,636 - INFO - Extraction de https://www.euronews.com/culture/2025/04/12/in-pictures-the-week-in-culture
+2025-04-15 08:57:07,253 - INFO - extraction reussi
+2025-04-15 08:57:07,253 - INFO - Extraction de https://www.euronews.com/business/2025/04/12/what-this-weeks-stock-market-volatility-means-for-european-investors
+2025-04-15 08:57:07,829 - INFO - extraction reussi
+2025-04-15 08:57:07,829 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/as-trump-brings-the-eu-and-china-closer-reality-keeps-pulling-them-apart
+2025-04-15 08:57:08,607 - INFO - extraction reussi
+2025-04-15 08:57:08,607 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/brussels-my-love-the-rise-and-fall-of-marine-le-pen
+2025-04-15 08:57:09,073 - INFO - extraction reussi
+2025-04-15 08:57:09,073 - INFO - Extraction de https://www.euronews.com/business/2025/04/12/can-teachers-afford-to-buy-a-house-in-europe-and-how-long-would-it-take
+2025-04-15 08:57:09,744 - INFO - extraction reussi
+2025-04-15 08:57:09,744 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/bomb-explodes-near-national-train-company-office-in-athens-no-injuries-reported
+2025-04-15 08:57:10,476 - INFO - extraction reussi
+2025-04-15 08:57:10,476 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/erdogan-positions-turkey-as-point-of-stability-for-european-security-and-syria
+2025-04-15 08:57:11,022 - INFO - extraction reussi
+2025-04-15 08:57:11,022 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/czech-republic-maintains-border-checks-as-slovakia-tackles-foot-and-mouth-disease
+2025-04-15 08:57:11,559 - INFO - extraction reussi
+2025-04-15 08:57:11,559 - INFO - Extraction de https://www.euronews.com/health/2025/04/12/measles-beef-fat-and-bird-flu-what-europeans-say-about-rfk-jrs-make-america-healthy-again-
+2025-04-15 08:57:12,757 - INFO - extraction reussi
+2025-04-15 08:57:12,757 - INFO - Extraction de https://www.euronews.com/culture/2025/04/12/in-pictures-the-week-in-culture
+2025-04-15 08:57:13,357 - INFO - extraction reussi
+2025-04-15 08:57:13,358 - INFO - Extraction de https://www.euronews.com/business/2025/04/12/what-this-weeks-stock-market-volatility-means-for-european-investors
+2025-04-15 08:57:13,852 - INFO - extraction reussi
+2025-04-15 08:57:13,852 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/as-trump-brings-the-eu-and-china-closer-reality-keeps-pulling-them-apart
+2025-04-15 08:57:14,659 - INFO - extraction reussi
+2025-04-15 08:57:14,659 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/brussels-my-love-the-rise-and-fall-of-marine-le-pen
+2025-04-15 08:57:15,097 - INFO - extraction reussi
+2025-04-15 08:57:15,098 - INFO - Extraction de https://www.euronews.com/business/2025/04/12/can-teachers-afford-to-buy-a-house-in-europe-and-how-long-would-it-take
+2025-04-15 08:57:15,615 - INFO - extraction reussi
+2025-04-15 08:57:15,615 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/bomb-explodes-near-national-train-company-office-in-athens-no-injuries-reported
+2025-04-15 08:57:16,130 - INFO - extraction reussi
+2025-04-15 08:57:16,131 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/erdogan-positions-turkey-as-point-of-stability-for-european-security-and-syria
+2025-04-15 08:57:16,677 - INFO - extraction reussi
+2025-04-15 08:57:16,678 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/czech-republic-maintains-border-checks-as-slovakia-tackles-foot-and-mouth-disease
+2025-04-15 08:57:17,156 - INFO - extraction reussi
+2025-04-15 08:57:17,156 - INFO - Extraction de https://www.euronews.com/health/2025/04/12/measles-beef-fat-and-bird-flu-what-europeans-say-about-rfk-jrs-make-america-healthy-again-
+2025-04-15 08:57:18,042 - INFO - extraction reussi
+2025-04-15 08:57:18,043 - INFO - Extraction de https://www.euronews.com/culture/2025/04/12/in-pictures-the-week-in-culture
+2025-04-15 08:57:18,845 - INFO - extraction reussi
+2025-04-15 08:57:18,845 - INFO - Extraction de https://www.euronews.com/business/2025/04/12/what-this-weeks-stock-market-volatility-means-for-european-investors
+2025-04-15 08:57:19,344 - INFO - extraction reussi
+2025-04-15 08:57:19,344 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/as-trump-brings-the-eu-and-china-closer-reality-keeps-pulling-them-apart
+2025-04-15 08:57:20,195 - INFO - extraction reussi
+2025-04-15 08:57:20,195 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/brussels-my-love-the-rise-and-fall-of-marine-le-pen
+2025-04-15 08:57:20,642 - INFO - extraction reussi
+2025-04-15 08:57:20,642 - INFO - Extraction de https://www.euronews.com/business/2025/04/12/can-teachers-afford-to-buy-a-house-in-europe-and-how-long-would-it-take
+2025-04-15 08:57:21,255 - INFO - extraction reussi
+2025-04-15 08:57:21,256 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/bomb-explodes-near-national-train-company-office-in-athens-no-injuries-reported
+2025-04-15 08:57:21,837 - INFO - extraction reussi
+2025-04-15 08:57:21,837 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/erdogan-positions-turkey-as-point-of-stability-for-european-security-and-syria
+2025-04-15 08:57:22,417 - INFO - extraction reussi
+2025-04-15 08:57:22,417 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/czech-republic-maintains-border-checks-as-slovakia-tackles-foot-and-mouth-disease
+2025-04-15 08:57:22,885 - INFO - extraction reussi
+2025-04-15 08:57:22,885 - INFO - Extraction de https://www.euronews.com/health/2025/04/12/measles-beef-fat-and-bird-flu-what-europeans-say-about-rfk-jrs-make-america-healthy-again-
+2025-04-15 08:57:23,895 - INFO - extraction reussi
+2025-04-15 08:57:23,896 - INFO - Extraction de https://www.euronews.com/culture/2025/04/12/in-pictures-the-week-in-culture
+2025-04-15 08:57:24,619 - INFO - extraction reussi
+2025-04-15 08:57:24,619 - INFO - Extraction de https://www.euronews.com/business/2025/04/12/what-this-weeks-stock-market-volatility-means-for-european-investors
+2025-04-15 08:57:25,261 - INFO - extraction reussi
+2025-04-15 08:57:25,261 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/as-trump-brings-the-eu-and-china-closer-reality-keeps-pulling-them-apart
+2025-04-15 08:57:26,016 - INFO - extraction reussi
+2025-04-15 08:57:26,016 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/brussels-my-love-the-rise-and-fall-of-marine-le-pen
+2025-04-15 08:57:26,444 - INFO - extraction reussi
+2025-04-15 08:57:26,444 - INFO - Extraction de https://www.euronews.com/business/2025/04/12/can-teachers-afford-to-buy-a-house-in-europe-and-how-long-would-it-take
+2025-04-15 08:57:27,184 - INFO - extraction reussi
+2025-04-15 08:57:27,184 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/bomb-explodes-near-national-train-company-office-in-athens-no-injuries-reported
+2025-04-15 08:57:27,944 - INFO - extraction reussi
+2025-04-15 08:57:27,944 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/12/erdogan-positions-turkey-as-point-of-stability-for-european-security-and-syria
+2025-04-15 08:57:28,918 - INFO - extraction reussi
+2025-04-15 08:57:28,918 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/czech-republic-maintains-border-checks-as-slovakia-tackles-foot-and-mouth-disease
+2025-04-15 08:57:29,605 - INFO - extraction reussi
+2025-04-15 08:57:29,605 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/jailed-istanbul-mayor-imamoglu-appears-in-court-on-public-prosecutor-threat-charges
+2025-04-15 08:57:30,566 - INFO - extraction reussi
+2025-04-15 08:57:30,567 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/us-envoy-witkoff-holds-third-meeting-with-putin-in-russia-to-discuss-ukraine-ceasefire
+2025-04-15 08:57:32,000 - INFO - extraction reussi
+2025-04-15 08:57:32,000 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/battle-for-pokrovsk-ukraines-military-says-it-has-pushed-back-russian-soldiers
+2025-04-15 08:57:33,556 - INFO - extraction reussi
+2025-04-15 08:57:33,556 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/estonian-authorities-detain-russian-shadow-fleet-linked-oil-tanker-near-tallinn
+2025-04-15 08:57:34,955 - INFO - extraction reussi
+2025-04-15 08:57:34,955 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/us-no-longer-to-chair-nato-led-group-of-key-military-allies
+2025-04-15 08:57:36,235 - INFO - extraction reussi
+2025-04-15 08:57:36,235 - INFO - Extraction de https://www.euronews.com/2025/04/11/cambodias-descent-into-autocracy-demands-a-bold-eu-response
+2025-04-15 08:57:37,065 - INFO - extraction reussi
+2025-04-15 08:57:37,065 - INFO - Extraction de https://www.euronews.com/green/2025/04/11/ai-climate-champion-catastrophe-carbon-emissions
+2025-04-15 08:57:37,954 - INFO - extraction reussi
+2025-04-15 08:57:37,954 - INFO - Extraction de https://www.euronews.com/business/2025/04/11/us-stocks-remain-volatile-as-bank-earnings-fail-to-cheer-investors
+2025-04-15 08:57:39,474 - INFO - extraction reussi
+2025-04-15 08:57:39,474 - INFO - Extraction de https://www.euronews.com/travel/2025/04/11/is-norway-introducing-a-visitor-tax-heres-all-we-know-about-its-proposal-to-tackle-overtou
+2025-04-15 08:57:41,461 - INFO - extraction reussi
+2025-04-15 08:57:41,461 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/jailed-istanbul-mayor-imamoglu-appears-in-court-on-public-prosecutor-threat-charges
+2025-04-15 08:57:41,953 - INFO - extraction reussi
+2025-04-15 08:57:41,954 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/us-envoy-witkoff-holds-third-meeting-with-putin-in-russia-to-discuss-ukraine-ceasefire
+2025-04-15 08:57:42,335 - INFO - extraction reussi
+2025-04-15 08:57:42,335 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/battle-for-pokrovsk-ukraines-military-says-it-has-pushed-back-russian-soldiers
+2025-04-15 08:57:42,920 - INFO - extraction reussi
+2025-04-15 08:57:42,921 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/estonian-authorities-detain-russian-shadow-fleet-linked-oil-tanker-near-tallinn
+2025-04-15 08:57:43,511 - INFO - extraction reussi
+2025-04-15 08:57:43,512 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/us-no-longer-to-chair-nato-led-group-of-key-military-allies
+2025-04-15 08:57:43,989 - INFO - extraction reussi
+2025-04-15 08:57:43,989 - INFO - Extraction de https://www.euronews.com/2025/04/11/cambodias-descent-into-autocracy-demands-a-bold-eu-response
+2025-04-15 08:57:44,588 - INFO - extraction reussi
+2025-04-15 08:57:44,589 - INFO - Extraction de https://www.euronews.com/green/2025/04/11/ai-climate-champion-catastrophe-carbon-emissions
+2025-04-15 08:57:45,586 - INFO - extraction reussi
+2025-04-15 08:57:45,586 - INFO - Extraction de https://www.euronews.com/business/2025/04/11/us-stocks-remain-volatile-as-bank-earnings-fail-to-cheer-investors
+2025-04-15 08:57:46,160 - INFO - extraction reussi
+2025-04-15 08:57:46,160 - INFO - Extraction de https://www.euronews.com/travel/2025/04/11/is-norway-introducing-a-visitor-tax-heres-all-we-know-about-its-proposal-to-tackle-overtou
+2025-04-15 08:57:46,734 - INFO - extraction reussi
+2025-04-15 08:57:46,734 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/italy-transfers-40-rejected-asylum-seekers-to-detention-centres-in-albania
+2025-04-15 08:57:48,267 - INFO - extraction reussi
+2025-04-15 08:57:48,267 - INFO - Extraction de https://www.euronews.com/green/2025/04/11/toxic-dust-and-stressed-seals-what-the-shrinking-caspian-sea-could-mean-for-people-and-nat
+2025-04-15 08:57:48,979 - INFO - extraction reussi
+2025-04-15 08:57:48,979 - INFO - Extraction de https://www.euronews.com/business/2025/04/11/financial-giants-jpmorgan-chase-and-morgan-stanley-see-earnings-jump
+2025-04-15 08:57:49,802 - INFO - extraction reussi
+2025-04-15 08:57:49,802 - INFO - Extraction de https://www.euronews.com/business/2025/04/11/uk-economy-sees-unexpected-growth-spurt-in-february-before-tariff-woes
+2025-04-15 08:57:50,890 - INFO - extraction reussi
+2025-04-15 08:57:50,890 - INFO - Extraction de https://www.euronews.com/culture/2025/04/11/bon-ivers-sabel-fable-euronews-cultures-verdict
+2025-04-15 08:57:52,407 - INFO - extraction reussi
+2025-04-15 08:57:52,407 - INFO - Extraction de https://www.euronews.com/travel/2025/04/11/weirdest-things-lost-luggage
+2025-04-15 08:57:53,049 - INFO - extraction reussi
+2025-04-15 08:57:53,049 - INFO - Extraction de https://www.euronews.com/travel/2025/04/11/hiking-in-cinque-terre-this-spring-be-prepared-for-footwear-checks-and-one-way-systems
+2025-04-15 08:57:53,932 - INFO - extraction reussi
+2025-04-15 08:57:53,932 - INFO - Extraction de https://www.euronews.com/green/2025/04/11/la-nina-has-ended-after-three-weak-months-what-does-it-mean-for-europes-weather
+2025-04-15 08:57:55,700 - INFO - extraction reussi
+2025-04-15 08:57:55,700 - INFO - Extraction de https://www.euronews.com/business/2025/04/11/baku-energy-talks-strengthen-euazerbaijan-partnership-on-gas-and-long-term-energy-security
+2025-04-15 08:57:56,195 - INFO - extraction reussi
+2025-04-15 08:57:56,195 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/which-critical-raw-materials-are-used-in-europes-defence-sector
+2025-04-15 08:57:57,356 - INFO - extraction reussi
+2025-04-15 08:57:57,356 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/italy-transfers-40-rejected-asylum-seekers-to-detention-centres-in-albania
+2025-04-15 08:57:57,857 - INFO - extraction reussi
+2025-04-15 08:57:57,857 - INFO - Extraction de https://www.euronews.com/green/2025/04/11/toxic-dust-and-stressed-seals-what-the-shrinking-caspian-sea-could-mean-for-people-and-nat
+2025-04-15 08:57:58,532 - INFO - extraction reussi
+2025-04-15 08:57:58,532 - INFO - Extraction de https://www.euronews.com/business/2025/04/11/financial-giants-jpmorgan-chase-and-morgan-stanley-see-earnings-jump
+2025-04-15 08:57:59,024 - INFO - extraction reussi
+2025-04-15 08:57:59,024 - INFO - Extraction de https://www.euronews.com/business/2025/04/11/uk-economy-sees-unexpected-growth-spurt-in-february-before-tariff-woes
+2025-04-15 08:57:59,540 - INFO - extraction reussi
+2025-04-15 08:57:59,540 - INFO - Extraction de https://www.euronews.com/culture/2025/04/11/bon-ivers-sabel-fable-euronews-cultures-verdict
+2025-04-15 08:58:00,063 - INFO - extraction reussi
+2025-04-15 08:58:00,063 - INFO - Extraction de https://www.euronews.com/travel/2025/04/11/weirdest-things-lost-luggage
+2025-04-15 08:58:00,784 - INFO - extraction reussi
+2025-04-15 08:58:00,785 - INFO - Extraction de https://www.euronews.com/travel/2025/04/11/hiking-in-cinque-terre-this-spring-be-prepared-for-footwear-checks-and-one-way-systems
+2025-04-15 08:58:01,453 - INFO - extraction reussi
+2025-04-15 08:58:01,453 - INFO - Extraction de https://www.euronews.com/green/2025/04/11/la-nina-has-ended-after-three-weak-months-what-does-it-mean-for-europes-weather
+2025-04-15 08:58:02,173 - INFO - extraction reussi
+2025-04-15 08:58:02,173 - INFO - Extraction de https://www.euronews.com/business/2025/04/11/baku-energy-talks-strengthen-euazerbaijan-partnership-on-gas-and-long-term-energy-security
+2025-04-15 08:58:02,550 - INFO - extraction reussi
+2025-04-15 08:58:02,550 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/which-critical-raw-materials-are-used-in-europes-defence-sector
+2025-04-15 08:58:03,383 - INFO - extraction reussi
+2025-04-15 08:58:03,383 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/italy-transfers-40-rejected-asylum-seekers-to-detention-centres-in-albania
+2025-04-15 08:58:03,885 - INFO - extraction reussi
+2025-04-15 08:58:03,885 - INFO - Extraction de https://www.euronews.com/green/2025/04/11/toxic-dust-and-stressed-seals-what-the-shrinking-caspian-sea-could-mean-for-people-and-nat
+2025-04-15 08:58:04,634 - INFO - extraction reussi
+2025-04-15 08:58:04,634 - INFO - Extraction de https://www.euronews.com/business/2025/04/11/financial-giants-jpmorgan-chase-and-morgan-stanley-see-earnings-jump
+2025-04-15 08:58:05,122 - INFO - extraction reussi
+2025-04-15 08:58:05,122 - INFO - Extraction de https://www.euronews.com/business/2025/04/11/uk-economy-sees-unexpected-growth-spurt-in-february-before-tariff-woes
+2025-04-15 08:58:05,613 - INFO - extraction reussi
+2025-04-15 08:58:05,613 - INFO - Extraction de https://www.euronews.com/culture/2025/04/11/bon-ivers-sabel-fable-euronews-cultures-verdict
+2025-04-15 08:58:06,180 - INFO - extraction reussi
+2025-04-15 08:58:06,180 - INFO - Extraction de https://www.euronews.com/travel/2025/04/11/weirdest-things-lost-luggage
+2025-04-15 08:58:07,150 - INFO - extraction reussi
+2025-04-15 08:58:07,151 - INFO - Extraction de https://www.euronews.com/travel/2025/04/11/hiking-in-cinque-terre-this-spring-be-prepared-for-footwear-checks-and-one-way-systems
+2025-04-15 08:58:07,805 - INFO - extraction reussi
+2025-04-15 08:58:07,805 - INFO - Extraction de https://www.euronews.com/green/2025/04/11/la-nina-has-ended-after-three-weak-months-what-does-it-mean-for-europes-weather
+2025-04-15 08:58:08,329 - INFO - extraction reussi
+2025-04-15 08:58:08,329 - INFO - Extraction de https://www.euronews.com/business/2025/04/11/baku-energy-talks-strengthen-euazerbaijan-partnership-on-gas-and-long-term-energy-security
+2025-04-15 08:58:08,693 - INFO - extraction reussi
+2025-04-15 08:58:08,693 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/which-critical-raw-materials-are-used-in-europes-defence-sector
+2025-04-15 08:58:09,477 - INFO - extraction reussi
+2025-04-15 08:58:09,477 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/italy-transfers-40-rejected-asylum-seekers-to-detention-centres-in-albania
+2025-04-15 08:58:10,623 - INFO - extraction reussi
+2025-04-15 08:58:10,623 - INFO - Extraction de https://www.euronews.com/green/2025/04/11/toxic-dust-and-stressed-seals-what-the-shrinking-caspian-sea-could-mean-for-people-and-nat
+2025-04-15 08:58:11,211 - INFO - extraction reussi
+2025-04-15 08:58:11,212 - INFO - Extraction de https://www.euronews.com/business/2025/04/11/financial-giants-jpmorgan-chase-and-morgan-stanley-see-earnings-jump
+2025-04-15 08:58:11,715 - INFO - extraction reussi
+2025-04-15 08:58:11,715 - INFO - Extraction de https://www.euronews.com/business/2025/04/11/uk-economy-sees-unexpected-growth-spurt-in-february-before-tariff-woes
+2025-04-15 08:58:12,171 - INFO - extraction reussi
+2025-04-15 08:58:12,171 - INFO - Extraction de https://www.euronews.com/culture/2025/04/11/bon-ivers-sabel-fable-euronews-cultures-verdict
+2025-04-15 08:58:12,842 - INFO - extraction reussi
+2025-04-15 08:58:12,843 - INFO - Extraction de https://www.euronews.com/travel/2025/04/11/weirdest-things-lost-luggage
+2025-04-15 08:58:13,862 - INFO - extraction reussi
+2025-04-15 08:58:13,863 - INFO - Extraction de https://www.euronews.com/travel/2025/04/11/hiking-in-cinque-terre-this-spring-be-prepared-for-footwear-checks-and-one-way-systems
+2025-04-15 08:58:14,490 - INFO - extraction reussi
+2025-04-15 08:58:14,490 - INFO - Extraction de https://www.euronews.com/green/2025/04/11/la-nina-has-ended-after-three-weak-months-what-does-it-mean-for-europes-weather
+2025-04-15 08:58:15,226 - INFO - extraction reussi
+2025-04-15 08:58:15,226 - INFO - Extraction de https://www.euronews.com/business/2025/04/11/baku-energy-talks-strengthen-euazerbaijan-partnership-on-gas-and-long-term-energy-security
+2025-04-15 08:58:15,697 - INFO - extraction reussi
+2025-04-15 08:58:15,697 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/which-critical-raw-materials-are-used-in-europes-defence-sector
+2025-04-15 08:58:16,268 - INFO - extraction reussi
+2025-04-15 08:58:16,268 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/european-companies-risk-sanctions-breaches-amid-surge-in-shady-transactions-report-claims
+2025-04-15 08:58:17,190 - INFO - extraction reussi
+2025-04-15 08:58:17,190 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/can-the-eu-really-ramp-up-imports-of-us-energy-as-trump-demands-analysis
+2025-04-15 08:58:17,867 - INFO - extraction reussi
+2025-04-15 08:58:17,867 - INFO - Extraction de https://www.euronews.com/business/2025/04/11/eu-and-central-asia-launch-strategic-partnership-at-samarkand-summit
+2025-04-15 08:58:18,351 - INFO - extraction reussi
+2025-04-15 08:58:18,352 - INFO - Extraction de https://www.euronews.com/culture/2025/04/11/jordan-belfort-the-real-wolf-of-wall-street-backs-donald-trumps-tariffs
+2025-04-15 08:58:18,955 - INFO - extraction reussi
+2025-04-15 08:58:18,955 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/eu-ukraine-trade-talks-enter-crucial-phase-on-agriculture
+2025-04-15 08:58:20,150 - INFO - extraction reussi
+2025-04-15 08:58:20,151 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/eu-seeks-safer-toxin-free-childrens-toys-with-stricter-rules
+2025-04-15 08:58:20,774 - INFO - extraction reussi
+2025-04-15 08:58:20,774 - INFO - Extraction de https://www.euronews.com/2025/04/11/israeli-military-says-it-will-fire-air-force-reservists-who-condemned-war-in-gaza
+2025-04-15 08:58:21,916 - INFO - extraction reussi
+2025-04-15 08:58:21,916 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/ukraine-allies-pledge-21-billion-in-new-military-support
+2025-04-15 08:58:22,484 - INFO - extraction reussi
+2025-04-15 08:58:22,485 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/european-companies-risk-sanctions-breaches-amid-surge-in-shady-transactions-report-claims
+2025-04-15 08:58:23,155 - INFO - extraction reussi
+2025-04-15 08:58:23,155 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/can-the-eu-really-ramp-up-imports-of-us-energy-as-trump-demands-analysis
+2025-04-15 08:58:23,695 - INFO - extraction reussi
+2025-04-15 08:58:23,696 - INFO - Extraction de https://www.euronews.com/business/2025/04/11/eu-and-central-asia-launch-strategic-partnership-at-samarkand-summit
+2025-04-15 08:58:24,060 - INFO - extraction reussi
+2025-04-15 08:58:24,060 - INFO - Extraction de https://www.euronews.com/culture/2025/04/11/jordan-belfort-the-real-wolf-of-wall-street-backs-donald-trumps-tariffs
+2025-04-15 08:58:24,701 - INFO - extraction reussi
+2025-04-15 08:58:24,702 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/eu-ukraine-trade-talks-enter-crucial-phase-on-agriculture
+2025-04-15 08:58:25,235 - INFO - extraction reussi
+2025-04-15 08:58:25,236 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/eu-seeks-safer-toxin-free-childrens-toys-with-stricter-rules
+2025-04-15 08:58:25,791 - INFO - extraction reussi
+2025-04-15 08:58:25,792 - INFO - Extraction de https://www.euronews.com/2025/04/11/israeli-military-says-it-will-fire-air-force-reservists-who-condemned-war-in-gaza
+2025-04-15 08:58:26,250 - INFO - extraction reussi
+2025-04-15 08:58:26,250 - INFO - Extraction de https://www.euronews.com/my-europe/2025/04/11/ukraine-allies-pledge-21-billion-in-new-military-support
+2025-04-15 08:58:26,668 - INFO - extraction reussi
